@@ -1,0 +1,20 @@
+Module 1: 
+Pour tester theaseaurus: Uniprot for test. 
+
+Module 2:
+Pour tester intact : Scerevisiae-intact_fort-test.tx
+Pour tester biogrid : BIOGRIDopt_testMH.txt et je crois aussi le theseaurus entier dans gros truc /home/melina.gallopin/Documents/data_test/gros truc/Thesaurus_Saccharomyces-cerevisiae_all-sequences.txt
+Pour tester irefindex : /home/melina.gallopin/Documents/data_test/Scerevisiae_IrefIndex_for-tests.txt
+
+Module 3 : 
+/home/melina.gallopin/Documents/data_test/Database-exemple_Input1_buildNetwork.txt
+/home/melina.gallopin/Documents/data_test/input_ELP_Input2_buildNetwork.txt
+/home/melina.gallopin/Documents/data_test/Scerevisiae-ID-correspondences_for-tests.txt je crois ... 
+
+Module 4 : Assemblage 
+Reprendre le réseau de degré 1 qui a été crée dans Network machin
+puis redonner la liste /home/melina.gallopin/Documents/data_test/input_ELP_Input2_buildNetwork.txt
+
+Module 5 : TFit
+.... 
+

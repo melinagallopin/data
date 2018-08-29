@@ -1,0 +1,1792 @@
+ID   ELP2_YEAST              Reviewed;         788 AA.
+AC   P42935; D6VUY2; E9P8V1;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1995, sequence version 1.
+DT   18-JUL-2018, entry version 163.
+DE   RecName: Full=Elongator complex protein 2;
+DE   AltName: Full=Gamma-toxin target 2;
+GN   Name=ELP2; Synonyms=TOT2; OrderedLocusNames=YGR200C; ORFNames=G7725;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=8904340;
+RX   DOI=10.1002/(SICI)1097-0061(19960315)12:3<273::AID-YEA898>3.0.CO;2-1;
+RA   Guerreiro P., Barreiros T., Soares H., Cyrne L., Maia e Silva A.,
+RA   Rodrigues-Pousada C.;
+RT   "Sequencing of a 17.6 kb segment on the right arm of yeast chromosome
+RT   VII reveals 12 ORFs, including CCT, ADE3 and TR-I genes, homologues of
+RT   the yeast PMT and EF1G genes, of the human and bacterial electron-
+RT   transferring flavoproteins (beta-chain) and of the Escherichia coli
+RT   phosphoserine phosphohydrolase, and five new ORFs.";
+RL   Yeast 12:273-280(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169869;
+RA   Tettelin H., Agostoni-Carbone M.L., Albermann K., Albers M.,
+RA   Arroyo J., Backes U., Barreiros T., Bertani I., Bjourson A.J.,
+RA   Brueckner M., Bruschi C.V., Carignani G., Castagnoli L., Cerdan E.,
+RA   Clemente M.L., Coblenz A., Coglievina M., Coissac E., Defoor E.,
+RA   Del Bino S., Delius H., Delneri D., de Wergifosse P., Dujon B.,
+RA   Durand P., Entian K.-D., Eraso P., Escribano V., Fabiani L.,
+RA   Fartmann B., Feroli F., Feuermann M., Frontali L., Garcia-Gonzalez M.,
+RA   Garcia-Saez M.I., Goffeau A., Guerreiro P., Hani J., Hansen M.,
+RA   Hebling U., Hernandez K., Heumann K., Hilger F., Hofmann B.,
+RA   Indge K.J., James C.M., Klima R., Koetter P., Kramer B., Kramer W.,
+RA   Lauquin G., Leuther H., Louis E.J., Maillier E., Marconi A.,
+RA   Martegani E., Mazon M.J., Mazzoni C., McReynolds A.D.K.,
+RA   Melchioretto P., Mewes H.-W., Minenkova O., Mueller-Auer S.,
+RA   Nawrocki A., Netter P., Neu R., Nombela C., Oliver S.G., Panzeri L.,
+RA   Paoluzi S., Plevani P., Portetelle D., Portillo F., Potier S.,
+RA   Purnelle B., Rieger M., Riles L., Rinaldi T., Robben J.,
+RA   Rodrigues-Pousada C., Rodriguez-Belmonte E., Rodriguez-Torres A.M.,
+RA   Rose M., Ruzzi M., Saliola M., Sanchez-Perez M., Schaefer B.,
+RA   Schaefer M., Scharfe M., Schmidheini T., Schreer A., Skala J.,
+RA   Souciet J.-L., Steensma H.Y., Talla E., Thierry A., Vandenbol M.,
+RA   van der Aart Q.J.M., Van Dyck L., Vanoni M., Verhasselt P., Voet M.,
+RA   Volckaert G., Wambutt R., Watson M.D., Weber N., Wedler E., Wedler H.,
+RA   Wipfli P., Wolf K., Wright L.F., Zaccaria P., Zimmermann M.,
+RA   Zollner A., Kleine K.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+RL   Nature 387:81-84(1997).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=17322287; DOI=10.1101/gr.6037607;
+RA   Hu Y., Rolfs A., Bhullar B., Murthy T.V.S., Zhu C., Berger M.F.,
+RA   Camargo A.A., Kelley F., McCarron S., Jepson D., Richardson A.,
+RA   Raphael J., Moreira D., Taycher E., Zuo D., Mohr S., Kane M.F.,
+RA   Williamson J., Simpson A.J.G., Bulyk M.L., Harlow E., Marsischky G.,
+RA   Kolodner R.D., LaBaer J.;
+RT   "Approaching a complete repository of sequence-verified protein-
+RT   encoding clones for Saccharomyces cerevisiae.";
+RL   Genome Res. 17:536-543(2007).
+RN   [5]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN TRANSCRIPTIONAL
+RP   REGULATION, AND SUBCELLULAR LOCATION.
+RX   PubMed=10024884; DOI=10.1016/S1097-2765(00)80179-3;
+RA   Otero G., Fellows J., Li Y., de Bizemont T., Dirac A.M.,
+RA   Gustafsson C.M., Erdjument-Bromage H., Tempst P., Svejstrup J.Q.;
+RT   "Elongator, a multisubunit component of a novel RNA polymerase II
+RT   holoenzyme for transcriptional elongation.";
+RL   Mol. Cell 3:109-118(1999).
+RN   [6]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN ZYMOCIN
+RP   SENSITIVITY.
+RX   PubMed=11296232; DOI=10.1093/emboj/20.8.1993;
+RA   Frohloff F., Fichtner L., Jablonowski D., Breunig K.D., Schaffrath R.;
+RT   "Saccharomyces cerevisiae Elongator mutations confer resistance to the
+RT   Kluyveromyces lactis zymocin.";
+RL   EMBO J. 20:1993-2003(2001).
+RN   [7]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX.
+RX   PubMed=11435442; DOI=10.1074/jbc.M105303200;
+RA   Winkler G.S., Petrakis T.G., Ethelberg S., Tokunaga M.,
+RA   Erdjument-Bromage H., Tempst P., Svejstrup J.Q.;
+RT   "RNA polymerase II elongator holoenzyme is composed of two discrete
+RT   subcomplexes.";
+RL   J. Biol. Chem. 276:32743-32749(2001).
+RN   [8]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX, AND
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN TRANSCRIPTIONAL
+RP   REGULATION.
+RX   PubMed=11689709; DOI=10.1128/MCB.21.23.8203-8212.2001;
+RA   Krogan N.J., Greenblatt J.F.;
+RT   "Characterization of a six-subunit holo-elongator complex required for
+RT   the regulated expression of a group of genes in Saccharomyces
+RT   cerevisiae.";
+RL   Mol. Cell. Biol. 21:8203-8212(2001).
+RN   [9]
+RP   INTERACTION WITH IKI3.
+RX   PubMed=12139626; DOI=10.1046/j.1365-2958.2002.03055.x;
+RA   Fichtner L., Frohloff F., Jablonowski D., Stark M.J.R., Schaffrath R.;
+RT   "Protein interactions within Saccharomyces cerevisiae Elongator, a
+RT   complex essential for Kluyveromyces lactis zymocicity.";
+RL   Mol. Microbiol. 45:817-826(2002).
+RN   [10]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN HISTONE
+RP   ACETYLATION.
+RX   PubMed=11904415; DOI=10.1073/pnas.022042899;
+RA   Winkler G.S., Kristjuhan A., Erdjument-Bromage H., Tempst P.,
+RA   Svejstrup J.Q.;
+RT   "Elongator is a histone H3 and H4 acetyltransferase important for
+RT   normal histone acetylation levels in vivo.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:3517-3522(2002).
+RN   [11]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN PICHIA
+RP   INOSITOVORA TOXIN SENSITIVITY.
+RX   PubMed=13680368; DOI=10.1007/s00438-003-0920-5;
+RA   Klassen R., Meinhardt F.;
+RT   "Structural and functional analysis of the killer element pPin1-3 from
+RT   Pichia inositovora.";
+RL   Mol. Genet. Genomics 270:190-199(2003).
+RN   [12]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562095; DOI=10.1038/nature02026;
+RA   Huh W.-K., Falvo J.V., Gerke L.C., Carroll A.S., Howson R.W.,
+RA   Weissman J.S., O'Shea E.K.;
+RT   "Global analysis of protein localization in budding yeast.";
+RL   Nature 425:686-691(2003).
+RN   [13]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [14]
+RP   FUNCTION.
+RX   PubMed=15138274; DOI=10.1074/jbc.M403361200;
+RA   Petrakis T.G., Wittschieben B.O., Svejstrup J.Q.;
+RT   "Molecular architecture, structure-function relationship, and
+RT   importance of the Elp3 subunit for the RNA binding of holo-
+RT   elongator.";
+RL   J. Biol. Chem. 279:32087-32092(2004).
+RN   [15]
+RP   FUNCTION IN EXOCYTOSIS REGULATION, AND SUBCELLULAR LOCATION.
+RX   PubMed=15780940; DOI=10.1016/j.molcel.2005.02.018;
+RA   Rahl P.B., Chen C.Z., Collins R.N.;
+RT   "Elp1p, the yeast homolog of the FD disease syndrome protein,
+RT   negatively regulates exocytosis independently of transcriptional
+RT   elongation.";
+RL   Mol. Cell 17:841-853(2005).
+RN   [16]
+RP   FUNCTION IN TRNA MODIFICATION.
+RX   PubMed=15769872; DOI=10.1261/rna.7247705;
+RA   Huang B., Johansson M.J.O., Bystroem A.S.;
+RT   "An early step in wobble uridine tRNA modification requires the
+RT   Elongator complex.";
+RL   RNA 11:424-436(2005).
+CC   -!- FUNCTION: Acts as component of the RNA polymerase II elongator
+CC       complex, which is a major histone acetyltransferase component of
+CC       the RNA polymerase II (RNAPII) holoenzyme and is involved in
+CC       transcriptional elongation. Association with elongating RNAPII
+CC       requires a hyperphosphorylated state of the RNAPII C-terminal
+CC       domain (CTD). Elongator binds to both naked and nucleosomal DNA,
+CC       can acetylate both core and nucleosomal histones, and is involved
+CC       in chromatin remodeling. It acetylates histones H3, preferentially
+CC       at 'Lys-14', and H4, preferentially at 'Lys-8'. It functions as a
+CC       gamma-toxin target (TOT); disruption of the complex confers
+CC       resistance to Kluyveromyces lactis toxin zymocin (pGKL1 killer
+CC       toxin). May also be involved in sensitiviy to Pichia inositovora
+CC       toxin. May be involved in tRNA modification. ELP2 is dispensable
+CC       for the complex integrity and, in vitro, is not required for
+CC       complex HAT activity. It is not required for the association of
+CC       the complex with nascent RNA transcript. Independently, ELP2 may
+CC       be involved in polarized exocytosis. Is required for an early step
+CC       in synthesis of 5-methoxycarbonylmethyl (mcm5) and 5-
+CC       carbamoylmethyl (ncm5) groups present on uridines at the wobble
+CC       position in tRNA. {ECO:0000269|PubMed:10024884,
+CC       ECO:0000269|PubMed:11296232, ECO:0000269|PubMed:11689709,
+CC       ECO:0000269|PubMed:11904415, ECO:0000269|PubMed:13680368,
+CC       ECO:0000269|PubMed:15138274, ECO:0000269|PubMed:15769872,
+CC       ECO:0000269|PubMed:15780940}.
+CC   -!- SUBUNIT: Component of the RNA polymerase II elongator complex,
+CC       which consists of IKI3, ELP2, ELP3, ELP4, IKI1 and ELP6. IKI3,
+CC       ELP2, and ELP3 form the elongator core complex. In the complex,
+CC       ELP2 interacts with IKI3. {ECO:0000269|PubMed:11435442,
+CC       ECO:0000269|PubMed:11689709, ECO:0000269|PubMed:12139626}.
+CC   -!- INTERACTION:
+CC       Q02908:ELP3; NbExp=11; IntAct=EBI-23459, EBI-33957;
+CC       Q02884:ELP4; NbExp=10; IntAct=EBI-23459, EBI-35277;
+CC       Q04868:ELP6; NbExp=2; IntAct=EBI-23459, EBI-27653;
+CC       P38874:IKI1; NbExp=7; IntAct=EBI-23459, EBI-9061;
+CC       Q06706:IKI3; NbExp=33; IntAct=EBI-23459, EBI-9068;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+CC   -!- MISCELLANEOUS: Present with 6090 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the WD repeat ELP2 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z49133; CAA88993.1; -; Genomic_DNA.
+DR   EMBL; Z72985; CAA97227.1; -; Genomic_DNA.
+DR   EMBL; AY558100; AAS56426.1; -; Genomic_DNA.
+DR   EMBL; BK006941; DAA08293.1; -; Genomic_DNA.
+DR   PIR; S53923; S53923.
+DR   RefSeq; NP_011716.3; NM_001181329.3.
+DR   PDB; 4XFV; X-ray; 3.20 A; A=1-788.
+DR   PDB; 5M2N; X-ray; 2.81 A; A=1-788.
+DR   PDBsum; 4XFV; -.
+DR   PDBsum; 5M2N; -.
+DR   ProteinModelPortal; P42935; -.
+DR   SMR; P42935; -.
+DR   BioGrid; 33453; 527.
+DR   ComplexPortal; CPX-779; Elongator holoenzyme complex.
+DR   DIP; DIP-2386N; -.
+DR   IntAct; P42935; 25.
+DR   MINT; P42935; -.
+DR   STRING; 4932.YGR200C; -.
+DR   iPTMnet; P42935; -.
+DR   MaxQB; P42935; -.
+DR   PaxDb; P42935; -.
+DR   PRIDE; P42935; -.
+DR   EnsemblFungi; YGR200C; YGR200C; YGR200C.
+DR   GeneID; 853114; -.
+DR   KEGG; sce:YGR200C; -.
+DR   EuPathDB; FungiDB:YGR200C; -.
+DR   SGD; S000003432; ELP2.
+DR   GeneTree; ENSGT00390000000916; -.
+DR   HOGENOM; HOG000200623; -.
+DR   InParanoid; P42935; -.
+DR   KO; K11374; -.
+DR   OMA; LHLWKQN; -.
+DR   OrthoDB; EOG092C09SX; -.
+DR   BioCyc; YEAST:G3O-30885-MONOMER; -.
+DR   PRO; PR:P42935; -.
+DR   Proteomes; UP000002311; Chromosome VII.
+DR   GO; GO:0005938; C:cell cortex; IBA:GO_Central.
+DR   GO; GO:0005737; C:cytoplasm; IDA:SGD.
+DR   GO; GO:0033588; C:Elongator holoenzyme complex; IDA:SGD.
+DR   GO; GO:0000776; C:kinetochore; IBA:GO_Central.
+DR   GO; GO:0005874; C:microtubule; IBA:GO_Central.
+DR   GO; GO:0005875; C:microtubule associated complex; IBA:GO_Central.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0005634; C:nucleus; IDA:SGD.
+DR   GO; GO:0070840; F:dynein complex binding; IBA:GO_Central.
+DR   GO; GO:0008017; F:microtubule binding; IDA:SGD.
+DR   GO; GO:0015031; P:protein transport; IEA:UniProtKB-KW.
+DR   GO; GO:0032447; P:protein urmylation; IMP:SGD.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IMP:SGD.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   GO; GO:0002098; P:tRNA wobble uridine modification; IMP:SGD.
+DR   Gene3D; 2.130.10.10; -; 4.
+DR   InterPro; IPR037289; Elp2.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom_sf.
+DR   InterPro; IPR001680; WD40_repeat.
+DR   InterPro; IPR017986; WD40_repeat_dom.
+DR   InterPro; IPR036322; WD40_repeat_dom_sf.
+DR   PANTHER; PTHR44111; PTHR44111; 1.
+DR   Pfam; PF00400; WD40; 5.
+DR   SMART; SM00320; WD40; 11.
+DR   SUPFAM; SSF50978; SSF50978; 4.
+DR   PROSITE; PS50082; WD_REPEATS_2; 6.
+DR   PROSITE; PS50294; WD_REPEATS_REGION; 3.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Nucleus;
+KW   Protein transport; Reference proteome; Repeat; Transcription;
+KW   Transcription regulation; Transport; WD repeat.
+FT   CHAIN         1    788       Elongator complex protein 2.
+FT                                /FTId=PRO_0000051474.
+FT   REPEAT       57     87       WD 1.
+FT   REPEAT      101    130       WD 2.
+FT   REPEAT      141    181       WD 3.
+FT   REPEAT      200    234       WD 4.
+FT   REPEAT      279    309       WD 5.
+FT   REPEAT      383    413       WD 6.
+FT   REPEAT      438    466       WD 7.
+FT   REPEAT      604    634       WD 8.
+FT   REPEAT      651    683       WD 9.
+FT   CONFLICT    579    579       S -> P (in Ref. 4; AAS56426).
+FT                                {ECO:0000305}.
+FT   STRAND        4     11       {ECO:0000244|PDB:5M2N}.
+FT   STRAND       20     23       {ECO:0000244|PDB:5M2N}.
+FT   TURN         25     27       {ECO:0000244|PDB:5M2N}.
+FT   STRAND       30     34       {ECO:0000244|PDB:5M2N}.
+FT   STRAND       37     41       {ECO:0000244|PDB:5M2N}.
+FT   STRAND       51     55       {ECO:0000244|PDB:5M2N}.
+FT   STRAND       62     67       {ECO:0000244|PDB:5M2N}.
+FT   STRAND       69     78       {ECO:0000244|PDB:5M2N}.
+FT   STRAND       83     92       {ECO:0000244|PDB:5M2N}.
+FT   STRAND       94    100       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      107    113       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      116    121       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      124    131       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      133    136       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      138    145       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      148    150       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      153    162       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      165    185       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      188    198       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      205    210       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      214    217       {ECO:0000244|PDB:4XFV}.
+FT   STRAND      218    225       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      228    239       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      259    264       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      267    278       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      280    289       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      291    294       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      296    300       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      303    310       {ECO:0000244|PDB:5M2N}.
+FT   TURN        312    314       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      317    324       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      344    349       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      352    358       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      364    373       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      376    381       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      384    386       {ECO:0000244|PDB:4XFV}.
+FT   STRAND      388    393       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      398    404       {ECO:0000244|PDB:5M2N}.
+FT   TURN        405    407       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      408    414       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      429    438       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      442    457       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      460    466       {ECO:0000244|PDB:5M2N}.
+FT   HELIX       469    479       {ECO:0000244|PDB:5M2N}.
+FT   HELIX       539    544       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      550    555       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      561    566       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      572    577       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      581    583       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      586    591       {ECO:0000244|PDB:5M2N}.
+FT   TURN        592    594       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      597    603       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      609    614       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      618    625       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      626    628       {ECO:0000244|PDB:4XFV}.
+FT   STRAND      630    636       {ECO:0000244|PDB:5M2N}.
+FT   TURN        637    640       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      641    651       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      656    661       {ECO:0000244|PDB:5M2N}.
+FT   HELIX       664    666       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      668    674       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      677    685       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      687    699       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      704    709       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      717    724       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      729    735       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      738    744       {ECO:0000244|PDB:5M2N}.
+FT   TURN        747    749       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      755    760       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      768    775       {ECO:0000244|PDB:5M2N}.
+FT   STRAND      780    786       {ECO:0000244|PDB:5M2N}.
+SQ   SEQUENCE   788 AA;  89411 MW;  5371908FE2E6EC0D CRC64;
+     MVECITPEAI FIGANKQTQV SDIHKVKKIV AFGAGKTIAL WDPIEPNNKG VYATLKGHEA
+     EVTCVRFVPD SDFMVSASED HHVKIWKFTD YSHLQCIQTI QHYSKTIVAL SALPSLISVG
+     CADGTISIWR QNIQNDEFGL AHEFTIKKGF FYPLCLSLSK VEEKKYLLAI GGTNVNVFIA
+     SFILSDSGIE KCRVVAELEG HEDWVKSLAF RHQETPGDYL LCSGSQDRYI RLWRIRINDL
+     IDDSEEDSKK LTLLSNKQYK FQIDDELRVG INFEALIMGH DDWISSLQWH ESRLQLLAAT
+     ADTSLMVWEP DETSGIWVCS LRLGEMSSKG ASTATGSSGG FWSCLWFTHE RMDFFLTNGK
+     TGSWRMWATK DNIICDQRLG ISGATKDVTD IAWSPSGEYL LATSLDQTTR LFAPWIYDAS
+     GRKREIATWH EFSRPQIHGY DMICVETVTD TRFVSGGDEK ILRSFDLPKG VAGMLQKFVG
+     IQFEEKSEMP DSATVPVLGL SNKAGEDDAN EDDEEEEGGN KETPDITDPL SLLECPPMED
+     QLQRHLLWPE VEKLYGHGFE ITCLDISPDQ KLIASACRSN NVQNAVIRIF STENWLEIKP
+     ALPFHSLTIT RLKFSKDGKF LLSVCRDRKW ALWERNMEDN TFELRFKNEK PHTRIIWDAD
+     WAPLEFGNVF VTASRDKTVK VWRHQKEPAD DYVLEASIKH TKAVTAISIH DSMIREKILI
+     SVGLENGEIY LYSYTLGKFE LITQLNEDIT PADKITRLRW SHLKRNGKLF LGVGSSDLST
+     RIYSLAYE
+//
+ID   ELP3_YEAST              Reviewed;         557 AA.
+AC   Q02908; D6W3T1;
+DT   16-MAY-2006, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   18-JUL-2018, entry version 150.
+DE   RecName: Full=Elongator complex protein 3;
+DE            EC=2.3.1.48;
+DE   AltName: Full=Gamma-toxin target 3;
+GN   Name=ELP3; Synonyms=HPA1, TOT3; OrderedLocusNames=YPL086C;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169875;
+RA   Bussey H., Storms R.K., Ahmed A., Albermann K., Allen E., Ansorge W.,
+RA   Araujo R., Aparicio A., Barrell B.G., Badcock K., Benes V.,
+RA   Botstein D., Bowman S., Brueckner M., Carpenter J., Cherry J.M.,
+RA   Chung E., Churcher C.M., Coster F., Davis K., Davis R.W.,
+RA   Dietrich F.S., Delius H., DiPaolo T., Dubois E., Duesterhoeft A.,
+RA   Duncan M., Floeth M., Fortin N., Friesen J.D., Fritz C., Goffeau A.,
+RA   Hall J., Hebling U., Heumann K., Hilbert H., Hillier L.W.,
+RA   Hunicke-Smith S., Hyman R.W., Johnston M., Kalman S., Kleine K.,
+RA   Komp C., Kurdi O., Lashkari D., Lew H., Lin A., Lin D., Louis E.J.,
+RA   Marathe R., Messenguy F., Mewes H.-W., Mirtipati S., Moestl D.,
+RA   Mueller-Auer S., Namath A., Nentwich U., Oefner P., Pearson D.,
+RA   Petel F.X., Pohl T.M., Purnelle B., Rajandream M.A., Rechmann S.,
+RA   Rieger M., Riles L., Roberts D., Schaefer M., Scharfe M., Scherens B.,
+RA   Schramm S., Schroeder M., Sdicu A.-M., Tettelin H., Urrestarazu L.A.,
+RA   Ushinsky S., Vierendeels F., Vissers S., Voss H., Walsh S.V.,
+RA   Wambutt R., Wang Y., Wedler E., Wedler H., Winnett E., Zhong W.-W.,
+RA   Zollner A., Vo D.H., Hani J.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+RL   Nature 387:103-105(1997).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [3]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN TRANSCRIPTIONAL
+RP   REGULATION, AND SUBCELLULAR LOCATION.
+RX   PubMed=10024884; DOI=10.1016/S1097-2765(00)80179-3;
+RA   Otero G., Fellows J., Li Y., de Bizemont T., Dirac A.M.,
+RA   Gustafsson C.M., Erdjument-Bromage H., Tempst P., Svejstrup J.Q.;
+RT   "Elongator, a multisubunit component of a novel RNA polymerase II
+RT   holoenzyme for transcriptional elongation.";
+RL   Mol. Cell 3:109-118(1999).
+RN   [4]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN ZYMOCIN
+RP   SENSITIVITY.
+RX   PubMed=11296232; DOI=10.1093/emboj/20.8.1993;
+RA   Frohloff F., Fichtner L., Jablonowski D., Breunig K.D., Schaffrath R.;
+RT   "Saccharomyces cerevisiae Elongator mutations confer resistance to the
+RT   Kluyveromyces lactis zymocin.";
+RL   EMBO J. 20:1993-2003(2001).
+RN   [5]
+RP   FUNCTION, AND IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR
+RP   COMPLEX.
+RX   PubMed=10445034; DOI=10.1016/S1097-2765(00)80194-X;
+RA   Wittschieben B.O., Otero G., de Bizemont T., Fellows J.,
+RA   Erdjument-Bromage H., Ohba R., Li Y., Allis C.D., Tempst P.,
+RA   Svejstrup J.Q.;
+RT   "A novel histone acetyltransferase is an integral subunit of
+RT   elongating RNA polymerase II holoenzyme.";
+RL   Mol. Cell 4:123-128(1999).
+RN   [6]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX.
+RX   PubMed=11435442; DOI=10.1074/jbc.M105303200;
+RA   Winkler G.S., Petrakis T.G., Ethelberg S., Tokunaga M.,
+RA   Erdjument-Bromage H., Tempst P., Svejstrup J.Q.;
+RT   "RNA polymerase II elongator holoenzyme is composed of two discrete
+RT   subcomplexes.";
+RL   J. Biol. Chem. 276:32743-32749(2001).
+RN   [7]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX, AND
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN TRANSCRIPTIONAL
+RP   REGULATION.
+RX   PubMed=11689709; DOI=10.1128/MCB.21.23.8203-8212.2001;
+RA   Krogan N.J., Greenblatt J.F.;
+RT   "Characterization of a six-subunit holo-elongator complex required for
+RT   the regulated expression of a group of genes in Saccharomyces
+RT   cerevisiae.";
+RL   Mol. Cell. Biol. 21:8203-8212(2001).
+RN   [8]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN HISTONE
+RP   ACETYLATION.
+RX   PubMed=11904415; DOI=10.1073/pnas.022042899;
+RA   Winkler G.S., Kristjuhan A., Erdjument-Bromage H., Tempst P.,
+RA   Svejstrup J.Q.;
+RT   "Elongator is a histone H3 and H4 acetyltransferase important for
+RT   normal histone acetylation levels in vivo.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:3517-3522(2002).
+RN   [9]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN PICHIA
+RP   INOSITOVORA TOXIN SENSITIVITY.
+RX   PubMed=13680368; DOI=10.1007/s00438-003-0920-5;
+RA   Klassen R., Meinhardt F.;
+RT   "Structural and functional analysis of the killer element pPin1-3 from
+RT   Pichia inositovora.";
+RL   Mol. Genet. Genomics 270:190-199(2003).
+RN   [10]
+RP   UBIQUITINATION [LARGE SCALE ANALYSIS] AT LYS-453, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY.
+RC   STRAIN=SUB592;
+RX   PubMed=12872131; DOI=10.1038/nbt849;
+RA   Peng J., Schwartz D., Elias J.E., Thoreen C.C., Cheng D.,
+RA   Marsischky G., Roelofs J., Finley D., Gygi S.P.;
+RT   "A proteomics approach to understanding protein ubiquitination.";
+RL   Nat. Biotechnol. 21:921-926(2003).
+RN   [11]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562095; DOI=10.1038/nature02026;
+RA   Huh W.-K., Falvo J.V., Gerke L.C., Carroll A.S., Howson R.W.,
+RA   Weissman J.S., O'Shea E.K.;
+RT   "Global analysis of protein localization in budding yeast.";
+RL   Nature 425:686-691(2003).
+RN   [12]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [13]
+RP   FUNCTION.
+RX   PubMed=15138274; DOI=10.1074/jbc.M403361200;
+RA   Petrakis T.G., Wittschieben B.O., Svejstrup J.Q.;
+RT   "Molecular architecture, structure-function relationship, and
+RT   importance of the Elp3 subunit for the RNA binding of holo-
+RT   elongator.";
+RL   J. Biol. Chem. 279:32087-32092(2004).
+RN   [14]
+RP   INTERACTION WITH KTI12.
+RX   PubMed=15772087; DOI=10.1074/jbc.M413373200;
+RA   Petrakis T.G., Soegaard T.M.M., Erdjument-Bromage H., Tempst P.,
+RA   Svejstrup J.Q.;
+RT   "Physical and functional interaction between Elongator and the
+RT   chromatin-associated Kti12 protein.";
+RL   J. Biol. Chem. 280:19454-19460(2005).
+RN   [15]
+RP   FUNCTION IN EXOCYTOSIS REGULATION, AND SUBCELLULAR LOCATION.
+RX   PubMed=15780940; DOI=10.1016/j.molcel.2005.02.018;
+RA   Rahl P.B., Chen C.Z., Collins R.N.;
+RT   "Elp1p, the yeast homolog of the FD disease syndrome protein,
+RT   negatively regulates exocytosis independently of transcriptional
+RT   elongation.";
+RL   Mol. Cell 17:841-853(2005).
+RN   [16]
+RP   FUNCTION IN TRNA MODIFICATION.
+RX   PubMed=15769872; DOI=10.1261/rna.7247705;
+RA   Huang B., Johansson M.J.O., Bystroem A.S.;
+RT   "An early step in wobble uridine tRNA modification requires the
+RT   Elongator complex.";
+RL   RNA 11:424-436(2005).
+RN   [17]
+RP   S-ADENOSYLMETHIONINE-BINDING, PRESENCE OF IRON-SULFUR (4FE-4S)
+RP   CLUSTER, AND MUTAGENESIS OF CYS-108; CYS-118 AND CYS-121.
+RX   PubMed=16420352; DOI=10.1111/j.1365-2958.2005.04989.x;
+RA   Paraskevopoulou C., Fairhurst S.A., Lowe D.J., Brick P., Onesti S.;
+RT   "The Elongator subunit Elp3 contains a Fe4S4 cluster and binds S-
+RT   adenosylmethionine.";
+RL   Mol. Microbiol. 59:795-806(2006).
+CC   -!- FUNCTION: Acts as catalytic subunit of the RNA polymerase II
+CC       elongator complex, which is a major histone acetyltransferase
+CC       component of the RNA polymerase II (Pol II) holoenzyme and is
+CC       involved in transcriptional elongation. Association with
+CC       elongating RNAPII requires a hyperphosphorylated state of the
+CC       RNAPII C-terminal domain (CTD). Elongator binds to both naked and
+CC       nucleosomal DNA, can acetylate both core and nucleosomal histones,
+CC       and is involved in chromatin remodeling. It acetylates histones
+CC       H3, preferentially at 'Lys-14', and H4, preferentially at 'Lys-8'.
+CC       It functions as a gamma-toxin target (TOT); disruption of the
+CC       complex confers resistance to Kluyveromyces lactis toxin zymocin
+CC       (pGKL1 killer toxin). May also be involved in sensitiviy to Pichia
+CC       inositovora toxin. May be involved in tRNA modification. ELP3 is
+CC       required for the complex integrity and for the association of the
+CC       complex with nascent RNA transcript. Independently, ELP3 may be
+CC       involved in polarized exocytosis. Is required for an early step in
+CC       synthesis of 5-methoxycarbonylmethyl (mcm5) and 5-carbamoylmethyl
+CC       (ncm5) groups present on uridines at the wobble position in tRNA.
+CC       {ECO:0000269|PubMed:10024884, ECO:0000269|PubMed:10445034,
+CC       ECO:0000269|PubMed:11296232, ECO:0000269|PubMed:11689709,
+CC       ECO:0000269|PubMed:11904415, ECO:0000269|PubMed:13680368,
+CC       ECO:0000269|PubMed:15138274, ECO:0000269|PubMed:15769872,
+CC       ECO:0000269|PubMed:15780940}.
+CC   -!- CATALYTIC ACTIVITY: Acetyl-CoA + [protein]-L-lysine = CoA +
+CC       [protein]-N(6)-acetyl-L-lysine.
+CC   -!- COFACTOR:
+CC       Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883;
+CC         Evidence={ECO:0000269|PubMed:16420352};
+CC       Note=Binds 1 [4Fe-4S] cluster. The cluster is coordinated with 3
+CC       cysteines and an exchangeable S-adenosyl-L-methionine.
+CC       {ECO:0000269|PubMed:16420352};
+CC   -!- SUBUNIT: Component of the RNA polymerase II elongator complex,
+CC       which consists of IKI3, ELP2, ELP3, ELP4, IKI1 and ELP6. IKI3,
+CC       ELP2, and ELP3 form the Elongator core complex. ELP3 interacts
+CC       with KTI12. {ECO:0000269|PubMed:10445034,
+CC       ECO:0000269|PubMed:11435442, ECO:0000269|PubMed:11689709,
+CC       ECO:0000269|PubMed:15772087}.
+CC   -!- INTERACTION:
+CC       P42935:ELP2; NbExp=11; IntAct=EBI-33957, EBI-23459;
+CC       Q02884:ELP4; NbExp=6; IntAct=EBI-33957, EBI-35277;
+CC       Q04868:ELP6; NbExp=4; IntAct=EBI-33957, EBI-27653;
+CC       P38874:IKI1; NbExp=7; IntAct=EBI-33957, EBI-9061;
+CC       Q06706:IKI3; NbExp=28; IntAct=EBI-33957, EBI-9068;
+CC       Q3E840:KTI11; NbExp=2; IntAct=EBI-33957, EBI-2055307;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:14562095,
+CC       ECO:0000269|PubMed:15780940}. Nucleus
+CC       {ECO:0000269|PubMed:10024884}.
+CC   -!- MISCELLANEOUS: Present with 4760 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the ELP3 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U43281; AAB68213.1; -; Genomic_DNA.
+DR   EMBL; BK006949; DAA11347.1; -; Genomic_DNA.
+DR   PIR; S61980; S61980.
+DR   RefSeq; NP_015239.1; NM_001183900.1.
+DR   ProteinModelPortal; Q02908; -.
+DR   SMR; Q02908; -.
+DR   BioGrid; 36095; 523.
+DR   ComplexPortal; CPX-779; Elongator holoenzyme complex.
+DR   DIP; DIP-2385N; -.
+DR   IntAct; Q02908; 21.
+DR   MINT; Q02908; -.
+DR   STRING; 4932.YPL086C; -.
+DR   iPTMnet; Q02908; -.
+DR   MaxQB; Q02908; -.
+DR   PaxDb; Q02908; -.
+DR   PRIDE; Q02908; -.
+DR   EnsemblFungi; YPL086C; YPL086C; YPL086C.
+DR   GeneID; 856019; -.
+DR   KEGG; sce:YPL086C; -.
+DR   EuPathDB; FungiDB:YPL086C; -.
+DR   SGD; S000006007; ELP3.
+DR   GeneTree; ENSGT00390000013141; -.
+DR   HOGENOM; HOG000227514; -.
+DR   InParanoid; Q02908; -.
+DR   KO; K07739; -.
+DR   OMA; SYTGKEP; -.
+DR   OrthoDB; EOG092C1F4W; -.
+DR   BioCyc; YEAST:G3O-33992-MONOMER; -.
+DR   PRO; PR:Q02908; -.
+DR   Proteomes; UP000002311; Chromosome XVI.
+DR   GO; GO:0005737; C:cytoplasm; IDA:SGD.
+DR   GO; GO:0033588; C:Elongator holoenzyme complex; IDA:SGD.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0005634; C:nucleus; IDA:SGD.
+DR   GO; GO:0004402; F:histone acetyltransferase activity; IDA:SGD.
+DR   GO; GO:0051536; F:iron-sulfur cluster binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0015031; P:protein transport; IEA:UniProtKB-KW.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IMP:SGD.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   GO; GO:0002098; P:tRNA wobble uridine modification; IMP:SGD.
+DR   Gene3D; 3.80.30.20; -; 1.
+DR   InterPro; IPR016181; Acyl_CoA_acyltransferase.
+DR   InterPro; IPR034687; ELP3-like.
+DR   InterPro; IPR006638; Elp3/MiaB/NifB.
+DR   InterPro; IPR000182; GNAT_dom.
+DR   InterPro; IPR032432; Radical_SAM_C.
+DR   InterPro; IPR007197; rSAM.
+DR   InterPro; IPR023404; rSAM_horseshoe.
+DR   PANTHER; PTHR11135:SF0; PTHR11135:SF0; 1.
+DR   Pfam; PF00583; Acetyltransf_1; 1.
+DR   Pfam; PF04055; Radical_SAM; 1.
+DR   Pfam; PF16199; Radical_SAM_C; 1.
+DR   PIRSF; PIRSF005669; Hist_AcTrfase_ELP3; 1.
+DR   SFLD; SFLDF00344; ELP3-like; 1.
+DR   SMART; SM00729; Elp3; 1.
+DR   SUPFAM; SSF55729; SSF55729; 1.
+DR   TIGRFAMs; TIGR01211; ELP3; 1.
+DR   PROSITE; PS51186; GNAT; 1.
+PE   1: Evidence at protein level;
+KW   Acyltransferase; Chromatin regulator; Complete proteome; Cytoplasm;
+KW   Iron; Iron-sulfur; Isopeptide bond; Metal-binding; Nucleus;
+KW   Protein transport; Reference proteome; Repeat;
+KW   S-adenosyl-L-methionine; Transcription; Transcription regulation;
+KW   Transferase; Transport; Ubl conjugation.
+FT   CHAIN         1    557       Elongator complex protein 3.
+FT                                /FTId=PRO_0000235811.
+FT   DOMAIN      405    557       N-acetyltransferase.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00532}.
+FT   METAL       108    108       Iron-sulfur (4Fe-4S-S-AdoMet).
+FT                                {ECO:0000269|PubMed:16420352}.
+FT   METAL       118    118       Iron-sulfur (4Fe-4S-S-AdoMet).
+FT                                {ECO:0000269|PubMed:16420352}.
+FT   METAL       121    121       Iron-sulfur (4Fe-4S-S-AdoMet).
+FT                                {ECO:0000269|PubMed:16420352}.
+FT   CROSSLNK    453    453       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in ubiquitin).
+FT                                {ECO:0000269|PubMed:12872131}.
+FT   MUTAGEN     108    108       C->S: Eliminates iron contents; when
+FT                                associated with S-118 and S-121.
+FT                                {ECO:0000269|PubMed:16420352}.
+FT   MUTAGEN     118    118       C->S: Eliminates iron contents; when
+FT                                associated with S-108 and S-121.
+FT                                {ECO:0000269|PubMed:16420352}.
+FT   MUTAGEN     121    121       C->S: Eliminates iron contents; when
+FT                                associated with S-108 and S-118.
+FT                                {ECO:0000269|PubMed:16420352}.
+SQ   SEQUENCE   557 AA;  63657 MW;  64EF8B42D3C3102E CRC64;
+     MARHGKGPKT NKKKLAPEKE RFIQCCADIT LELTDSLTSG TTREINLNGL ITKYSKKYKL
+     KQQPRLTDII NSIPDQYKKY LLPKLKAKPV RTASGIAVVA VMCKPHRCPH IAYTGNICVY
+     CPGGPDSDFE YSTQSYTGYE PTSMRAIRAR YDPYEQARGR VEQLKQLGHS IDKVEYVLMG
+     GTFMSLPKEY REDFIVKLHN ALSGFNGNDI DEAILYSQQS LTKCVGITIE TRPDYCTQTH
+     LDDMLKYGCT RLEIGVQSLY EDVARDTNRG HTVRSVCETF AVSKDAGYKV VSHMMPDLPN
+     VGMERDIEQF KEYFENPDFR TDGLKIYPTL VIRGTGLYEL WKTGRYKSYS ANALVDLVAR
+     ILALVPPWTR IYRVQRDIPM PLVTSGVDNG NLRELALARM KDLGTTCRDV RTREVGIQEV
+     HHKVQPDQVE LIRRDYYANG GWETFLSYED PKKDILIGLL RLRKASKKYT YRKEFTSQRT
+     SIVRELHVYG SVVPLHSRDP RKFQHQGFGT LLMEEAERIA KEEHGSEKIS VISGVGVRNY
+     YGKLGYELDG PYMSKRI
+//
+ID   ELP4_YEAST              Reviewed;         456 AA.
+AC   Q02884; D6W3R5;
+DT   16-MAY-2006, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   18-JUL-2018, entry version 138.
+DE   RecName: Full=Elongator complex protein 4;
+DE   AltName: Full=Gamma-toxin target 7;
+DE   AltName: Full=HAT-associated protein 1;
+GN   Name=ELP4; Synonyms=HAP1, TOT7; OrderedLocusNames=YPL101W;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169875;
+RA   Bussey H., Storms R.K., Ahmed A., Albermann K., Allen E., Ansorge W.,
+RA   Araujo R., Aparicio A., Barrell B.G., Badcock K., Benes V.,
+RA   Botstein D., Bowman S., Brueckner M., Carpenter J., Cherry J.M.,
+RA   Chung E., Churcher C.M., Coster F., Davis K., Davis R.W.,
+RA   Dietrich F.S., Delius H., DiPaolo T., Dubois E., Duesterhoeft A.,
+RA   Duncan M., Floeth M., Fortin N., Friesen J.D., Fritz C., Goffeau A.,
+RA   Hall J., Hebling U., Heumann K., Hilbert H., Hillier L.W.,
+RA   Hunicke-Smith S., Hyman R.W., Johnston M., Kalman S., Kleine K.,
+RA   Komp C., Kurdi O., Lashkari D., Lew H., Lin A., Lin D., Louis E.J.,
+RA   Marathe R., Messenguy F., Mewes H.-W., Mirtipati S., Moestl D.,
+RA   Mueller-Auer S., Namath A., Nentwich U., Oefner P., Pearson D.,
+RA   Petel F.X., Pohl T.M., Purnelle B., Rajandream M.A., Rechmann S.,
+RA   Rieger M., Riles L., Roberts D., Schaefer M., Scharfe M., Scherens B.,
+RA   Schramm S., Schroeder M., Sdicu A.-M., Tettelin H., Urrestarazu L.A.,
+RA   Ushinsky S., Vierendeels F., Vissers S., Voss H., Walsh S.V.,
+RA   Wambutt R., Wang Y., Wedler E., Wedler H., Winnett E., Zhong W.-W.,
+RA   Zollner A., Vo D.H., Hani J.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+RL   Nature 387:103-105(1997).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [3]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN TRANSCRIPTIONAL
+RP   REGULATION, AND SUBCELLULAR LOCATION.
+RX   PubMed=10024884; DOI=10.1016/S1097-2765(00)80179-3;
+RA   Otero G., Fellows J., Li Y., de Bizemont T., Dirac A.M.,
+RA   Gustafsson C.M., Erdjument-Bromage H., Tempst P., Svejstrup J.Q.;
+RT   "Elongator, a multisubunit component of a novel RNA polymerase II
+RT   holoenzyme for transcriptional elongation.";
+RL   Mol. Cell 3:109-118(1999).
+RN   [4]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN ZYMOCIN
+RP   SENSITIVITY.
+RX   PubMed=11296232; DOI=10.1093/emboj/20.8.1993;
+RA   Frohloff F., Fichtner L., Jablonowski D., Breunig K.D., Schaffrath R.;
+RT   "Saccharomyces cerevisiae Elongator mutations confer resistance to the
+RT   Kluyveromyces lactis zymocin.";
+RL   EMBO J. 20:1993-2003(2001).
+RN   [5]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX.
+RX   PubMed=11435442; DOI=10.1074/jbc.M105303200;
+RA   Winkler G.S., Petrakis T.G., Ethelberg S., Tokunaga M.,
+RA   Erdjument-Bromage H., Tempst P., Svejstrup J.Q.;
+RT   "RNA polymerase II elongator holoenzyme is composed of two discrete
+RT   subcomplexes.";
+RL   J. Biol. Chem. 276:32743-32749(2001).
+RN   [6]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=11390369; DOI=10.1074/jbc.C100274200;
+RA   Li Y., Takagi Y., Jiang Y., Tokunaga M., Erdjument-Bromage H.,
+RA   Tempst P., Kornberg R.D.;
+RT   "A multiprotein complex that interacts with RNA polymerase II
+RT   elongator.";
+RL   J. Biol. Chem. 276:29628-29631(2001).
+RN   [7]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX, AND
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN TRANSCRIPTIONAL
+RP   REGULATION.
+RX   PubMed=11689709; DOI=10.1128/MCB.21.23.8203-8212.2001;
+RA   Krogan N.J., Greenblatt J.F.;
+RT   "Characterization of a six-subunit holo-elongator complex required for
+RT   the regulated expression of a group of genes in Saccharomyces
+RT   cerevisiae.";
+RL   Mol. Cell. Biol. 21:8203-8212(2001).
+RN   [8]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN HISTONE
+RP   ACETYLATION.
+RX   PubMed=11904415; DOI=10.1073/pnas.022042899;
+RA   Winkler G.S., Kristjuhan A., Erdjument-Bromage H., Tempst P.,
+RA   Svejstrup J.Q.;
+RT   "Elongator is a histone H3 and H4 acetyltransferase important for
+RT   normal histone acetylation levels in vivo.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:3517-3522(2002).
+RN   [9]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN PICHIA
+RP   INOSITOVORA TOXIN SENSITIVITY.
+RX   PubMed=13680368; DOI=10.1007/s00438-003-0920-5;
+RA   Klassen R., Meinhardt F.;
+RT   "Structural and functional analysis of the killer element pPin1-3 from
+RT   Pichia inositovora.";
+RL   Mol. Genet. Genomics 270:190-199(2003).
+RN   [10]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=15138274; DOI=10.1074/jbc.M403361200;
+RA   Petrakis T.G., Wittschieben B.O., Svejstrup J.Q.;
+RT   "Molecular architecture, structure-function relationship, and
+RT   importance of the Elp3 subunit for the RNA binding of holo-
+RT   elongator.";
+RL   J. Biol. Chem. 279:32087-32092(2004).
+RN   [12]
+RP   INTERACTION WITH KTI12.
+RX   PubMed=15772087; DOI=10.1074/jbc.M413373200;
+RA   Petrakis T.G., Soegaard T.M.M., Erdjument-Bromage H., Tempst P.,
+RA   Svejstrup J.Q.;
+RT   "Physical and functional interaction between Elongator and the
+RT   chromatin-associated Kti12 protein.";
+RL   J. Biol. Chem. 280:19454-19460(2005).
+RN   [13]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=15780940; DOI=10.1016/j.molcel.2005.02.018;
+RA   Rahl P.B., Chen C.Z., Collins R.N.;
+RT   "Elp1p, the yeast homolog of the FD disease syndrome protein,
+RT   negatively regulates exocytosis independently of transcriptional
+RT   elongation.";
+RL   Mol. Cell 17:841-853(2005).
+RN   [14]
+RP   FUNCTION IN TRNA MODIFICATION.
+RX   PubMed=15769872; DOI=10.1261/rna.7247705;
+RA   Huang B., Johansson M.J.O., Bystroem A.S.;
+RT   "An early step in wobble uridine tRNA modification requires the
+RT   Elongator complex.";
+RL   RNA 11:424-436(2005).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-222, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   STRAIN=ADR376;
+RX   PubMed=17330950; DOI=10.1021/pr060559j;
+RA   Li X., Gerber S.A., Rudner A.D., Beausoleil S.A., Haas W., Villen J.,
+RA   Elias J.E., Gygi S.P.;
+RT   "Large-scale phosphorylation analysis of alpha-factor-arrested
+RT   Saccharomyces cerevisiae.";
+RL   J. Proteome Res. 6:1190-1197(2007).
+CC   -!- FUNCTION: Acts as component of the RNA polymerase II elongator
+CC       complex, which is a major histone acetyltransferase component of
+CC       the RNA polymerase II (RNAPII) holoenzyme and is involved in
+CC       transcriptional elongation. Association with elongating RNAPII
+CC       requires a hyperphosphorylated state of the RNAPII C-terminal
+CC       domain (CTD). Elongator binds to both naked and nucleosomal DNA,
+CC       can acetylate both core and nucleosomal histones, and is involved
+CC       in chromatin remodeling. It acetylates histones H3, preferentially
+CC       at 'Lys-14', and H4, preferentially at 'Lys-8'. It functions as a
+CC       gamma-toxin target (TOT); disruption of the complex confers
+CC       resistance to Kluyveromyces lactis toxin zymocin (pGKL1 killer
+CC       toxin). May also be involved in sensitiviy to Pichia inositovora
+CC       toxin. May be involved in tRNA modification. ELP4 is required for
+CC       the complex integrity and the complex HAT activity but is not
+CC       required for the association of the complex with nascent RNA
+CC       transcript. Is required for an early step in synthesis of 5-
+CC       methoxycarbonylmethyl (mcm5) and 5-carbamoylmethyl (ncm5) groups
+CC       present on uridines at the wobble position in tRNA.
+CC       {ECO:0000269|PubMed:10024884, ECO:0000269|PubMed:11296232,
+CC       ECO:0000269|PubMed:11689709, ECO:0000269|PubMed:11904415,
+CC       ECO:0000269|PubMed:13680368, ECO:0000269|PubMed:15138274,
+CC       ECO:0000269|PubMed:15769872}.
+CC   -!- SUBUNIT: Component of the RNA polymerase II elongator complex,
+CC       which consists of IKI3, ELP2, ELP3, ELP4, IKI1 and ELP6. ELP4,
+CC       IKI1 and ELP6 form a distinct subcomplex (HAP). ELP4 interacts
+CC       with KTI12. {ECO:0000269|PubMed:11390369,
+CC       ECO:0000269|PubMed:11435442, ECO:0000269|PubMed:11689709,
+CC       ECO:0000269|PubMed:15772087}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=2; IntAct=EBI-35277, EBI-35277;
+CC       P42935:ELP2; NbExp=10; IntAct=EBI-35277, EBI-23459;
+CC       Q02908:ELP3; NbExp=6; IntAct=EBI-35277, EBI-33957;
+CC       Q04868:ELP6; NbExp=14; IntAct=EBI-35277, EBI-27653;
+CC       P38874:IKI1; NbExp=14; IntAct=EBI-35277, EBI-9061;
+CC       Q06706:IKI3; NbExp=21; IntAct=EBI-35277, EBI-9068;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+CC   -!- MISCELLANEOUS: Present with 358 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the ELP4 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U43281; AAB68198.1; -; Genomic_DNA.
+DR   EMBL; BK006949; DAA11331.1; -; Genomic_DNA.
+DR   PIR; S61965; S61965.
+DR   RefSeq; NP_015224.1; NM_001183915.1.
+DR   PDB; 4A8J; X-ray; 2.10 A; A/D=66-426.
+DR   PDB; 4EJS; X-ray; 2.61 A; A=67-438.
+DR   PDBsum; 4A8J; -.
+DR   PDBsum; 4EJS; -.
+DR   ProteinModelPortal; Q02884; -.
+DR   SMR; Q02884; -.
+DR   BioGrid; 36079; 427.
+DR   ComplexPortal; CPX-779; Elongator holoenzyme complex.
+DR   DIP; DIP-6718N; -.
+DR   IntAct; Q02884; 12.
+DR   MINT; Q02884; -.
+DR   STRING; 4932.YPL101W; -.
+DR   iPTMnet; Q02884; -.
+DR   MaxQB; Q02884; -.
+DR   PaxDb; Q02884; -.
+DR   PRIDE; Q02884; -.
+DR   EnsemblFungi; YPL101W; YPL101W; YPL101W.
+DR   GeneID; 856002; -.
+DR   KEGG; sce:YPL101W; -.
+DR   EuPathDB; FungiDB:YPL101W; -.
+DR   SGD; S000006022; ELP4.
+DR   HOGENOM; HOG000175573; -.
+DR   InParanoid; Q02884; -.
+DR   KO; K11375; -.
+DR   OMA; ERMKIAW; -.
+DR   OrthoDB; EOG092C4EY0; -.
+DR   BioCyc; YEAST:G3O-34004-MONOMER; -.
+DR   PRO; PR:Q02884; -.
+DR   Proteomes; UP000002311; Chromosome XVI.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0033588; C:Elongator holoenzyme complex; IDA:SGD.
+DR   GO; GO:0000123; C:histone acetyltransferase complex; IBA:GO_Central.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0008023; C:transcription elongation factor complex; IBA:GO_Central.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0000993; F:RNA polymerase II core binding; IBA:GO_Central.
+DR   GO; GO:0043966; P:histone H3 acetylation; IBA:GO_Central.
+DR   GO; GO:0043967; P:histone H4 acetylation; IBA:GO_Central.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IMP:SGD.
+DR   GO; GO:0006368; P:transcription elongation from RNA polymerase II promoter; IBA:GO_Central.
+DR   GO; GO:0002098; P:tRNA wobble uridine modification; IMP:SGD.
+DR   InterPro; IPR008728; Elongator_complex_protein_4.
+DR   PANTHER; PTHR12896; PTHR12896; 1.
+DR   Pfam; PF05625; PAXNEB; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Nucleus; Phosphoprotein;
+KW   Reference proteome; Transcription; Transcription regulation.
+FT   CHAIN         1    456       Elongator complex protein 4.
+FT                                /FTId=PRO_0000235812.
+FT   MOD_RES     222    222       Phosphoserine.
+FT                                {ECO:0000244|PubMed:17330950}.
+FT   STRAND       75     77       {ECO:0000244|PDB:4A8J}.
+FT   TURN         79     81       {ECO:0000244|PDB:4A8J}.
+FT   STRAND       84     86       {ECO:0000244|PDB:4A8J}.
+FT   HELIX        91     96       {ECO:0000244|PDB:4A8J}.
+FT   STRAND       99    103       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      107    112       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       119    135       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      149    154       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       158    163       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      165    167       {ECO:0000244|PDB:4EJS}.
+FT   STRAND      241    246       {ECO:0000244|PDB:4EJS}.
+FT   TURN        253    255       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      256    259       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      261    263       {ECO:0000244|PDB:4EJS}.
+FT   HELIX       265    278       {ECO:0000244|PDB:4A8J}.
+FT   TURN        279    281       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      282    288       {ECO:0000244|PDB:4A8J}.
+FT   TURN        289    292       {ECO:0000244|PDB:4A8J}.
+FT   TURN        294    296       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       299    302       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       304    320       {ECO:0000244|PDB:4A8J}.
+FT   TURN        321    324       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      325    332       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       333    335       {ECO:0000244|PDB:4EJS}.
+FT   HELIX       338    347       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      349    356       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       359    368       {ECO:0000244|PDB:4A8J}.
+FT   TURN        369    371       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       373    375       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      379    385       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       389    392       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      398    406       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      411    415       {ECO:0000244|PDB:4A8J}.
+SQ   SEQUENCE   456 AA;  51156 MW;  276F0D1538EAA8FA CRC64;
+     MSFRKRGEIL NDRGSGLRGP LLRGPPRTSS TPLRTGNRRA PGNVPLSDTT ARLKKLNIAD
+     ESKTKMGLDS SHVGVRPSPA TSQPTTSTGS ADLDSILGHM GLPLGNSVLV EEQSTTEFHS
+     ILGKLFAAQG IVHNRISDSS ADKTRNGDTH VIVLSLNQMF AKELPGIYKG SRKQMKKNLI
+     SEEESKVTVQ NLNETQRSTP SRYKDLKIAW KYKLADEKRL GSPDRDDIQQ NSEYKDYNHQ
+     FDITTRLMPA PIASELTFIA PTQPVSTILS QIEQTIKRND KKLIRIVIPS LLHPAMYPPK
+     MFESSEIIGL MHGVRSLVKK YYERVVLFAS ISIDIITPPL LVLLRNMFDS VINLEPFNQE
+     MTEFLERVYK SQPGKIQHGL VHILKLPVFT DRGEMRVLKS EWAFKNGRKK FEIEQWGIPV
+     DDAEGSAASE QSHSHSHSDE ISHNIPAKKT KISLDY
+//
+ID   ELP1_YEAST              Reviewed;        1349 AA.
+AC   Q06706; D6VZ19; O00036;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   18-JUL-2018, entry version 150.
+DE   RecName: Full=Elongator complex protein 1;
+DE   AltName: Full=Gamma-toxin target 1;
+DE   AltName: Full=Protein IKI3;
+GN   Name=IKI3; Synonyms=ELP1, TOT1; OrderedLocusNames=YLR384C;
+GN   ORFNames=L3502.7;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=9145530; DOI=10.1271/bbb.61.704;
+RA   Yajima H., Tokunaga M., Nakayama-Murayama A., Hishinuma F.;
+RT   "Characterization of IKI1 and IKI3 genes conferring pGKL killer
+RT   sensitivity on Saccharomyces cerevisiae.";
+RL   Biosci. Biotechnol. Biochem. 61:704-709(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169871;
+RA   Johnston M., Hillier L.W., Riles L., Albermann K., Andre B.,
+RA   Ansorge W., Benes V., Brueckner M., Delius H., Dubois E.,
+RA   Duesterhoeft A., Entian K.-D., Floeth M., Goffeau A., Hebling U.,
+RA   Heumann K., Heuss-Neitzel D., Hilbert H., Hilger F., Kleine K.,
+RA   Koetter P., Louis E.J., Messenguy F., Mewes H.-W., Miosga T.,
+RA   Moestl D., Mueller-Auer S., Nentwich U., Obermaier B., Piravandi E.,
+RA   Pohl T.M., Portetelle D., Purnelle B., Rechmann S., Rieger M.,
+RA   Rinke M., Rose M., Scharfe M., Scherens B., Scholler P., Schwager C.,
+RA   Schwarz S., Underwood A.P., Urrestarazu L.A., Vandenbol M.,
+RA   Verhasselt P., Vierendeels F., Voet M., Volckaert G., Voss H.,
+RA   Wambutt R., Wedler E., Wedler H., Zimmermann F.K., Zollner A.,
+RA   Hani J., Hoheisel J.D.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+RL   Nature 387:87-90(1997).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [4]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN TRANSCRIPTIONAL
+RP   REGULATION, AND SUBCELLULAR LOCATION.
+RX   PubMed=10024884; DOI=10.1016/S1097-2765(00)80179-3;
+RA   Otero G., Fellows J., Li Y., de Bizemont T., Dirac A.M.,
+RA   Gustafsson C.M., Erdjument-Bromage H., Tempst P., Svejstrup J.Q.;
+RT   "Elongator, a multisubunit component of a novel RNA polymerase II
+RT   holoenzyme for transcriptional elongation.";
+RL   Mol. Cell 3:109-118(1999).
+RN   [5]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN ZYMOCIN
+RP   SENSITIVITY.
+RX   PubMed=11296232; DOI=10.1093/emboj/20.8.1993;
+RA   Frohloff F., Fichtner L., Jablonowski D., Breunig K.D., Schaffrath R.;
+RT   "Saccharomyces cerevisiae Elongator mutations confer resistance to the
+RT   Kluyveromyces lactis zymocin.";
+RL   EMBO J. 20:1993-2003(2001).
+RN   [6]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX.
+RX   PubMed=11435442; DOI=10.1074/jbc.M105303200;
+RA   Winkler G.S., Petrakis T.G., Ethelberg S., Tokunaga M.,
+RA   Erdjument-Bromage H., Tempst P., Svejstrup J.Q.;
+RT   "RNA polymerase II elongator holoenzyme is composed of two discrete
+RT   subcomplexes.";
+RL   J. Biol. Chem. 276:32743-32749(2001).
+RN   [7]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX, AND
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN TRANSCRIPTIONAL
+RP   REGULATION.
+RX   PubMed=11689709; DOI=10.1128/MCB.21.23.8203-8212.2001;
+RA   Krogan N.J., Greenblatt J.F.;
+RT   "Characterization of a six-subunit holo-elongator complex required for
+RT   the regulated expression of a group of genes in Saccharomyces
+RT   cerevisiae.";
+RL   Mol. Cell. Biol. 21:8203-8212(2001).
+RN   [8]
+RP   INTERACTION WITH ELP2.
+RX   PubMed=12139626; DOI=10.1046/j.1365-2958.2002.03055.x;
+RA   Fichtner L., Frohloff F., Jablonowski D., Stark M.J.R., Schaffrath R.;
+RT   "Protein interactions within Saccharomyces cerevisiae Elongator, a
+RT   complex essential for Kluyveromyces lactis zymocicity.";
+RL   Mol. Microbiol. 45:817-826(2002).
+RN   [9]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN HISTONE
+RP   ACETYLATION.
+RX   PubMed=11904415; DOI=10.1073/pnas.022042899;
+RA   Winkler G.S., Kristjuhan A., Erdjument-Bromage H., Tempst P.,
+RA   Svejstrup J.Q.;
+RT   "Elongator is a histone H3 and H4 acetyltransferase important for
+RT   normal histone acetylation levels in vivo.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:3517-3522(2002).
+RN   [10]
+RP   FUNCTION.
+RX   PubMed=12424236; DOI=10.1074/jbc.M210060200;
+RA   Frohloff F., Jablonowski D., Fichtner L., Schaffrath R.;
+RT   "Subunit communications crucial for the functional integrity of the
+RT   yeast RNA polymerase II elongator (gamma-toxin target (TOT))
+RT   complex.";
+RL   J. Biol. Chem. 278:956-961(2003).
+RN   [11]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN PICHIA
+RP   INOSITOVORA TOXIN SENSITIVITY.
+RX   PubMed=13680368; DOI=10.1007/s00438-003-0920-5;
+RA   Klassen R., Meinhardt F.;
+RT   "Structural and functional analysis of the killer element pPin1-3 from
+RT   Pichia inositovora.";
+RL   Mol. Genet. Genomics 270:190-199(2003).
+RN   [12]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562095; DOI=10.1038/nature02026;
+RA   Huh W.-K., Falvo J.V., Gerke L.C., Carroll A.S., Howson R.W.,
+RA   Weissman J.S., O'Shea E.K.;
+RT   "Global analysis of protein localization in budding yeast.";
+RL   Nature 425:686-691(2003).
+RN   [13]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [14]
+RP   FUNCTION IN EXOCYTOSIS REGULATION, INTERACTION WITH SEC2, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=15780940; DOI=10.1016/j.molcel.2005.02.018;
+RA   Rahl P.B., Chen C.Z., Collins R.N.;
+RT   "Elp1p, the yeast homolog of the FD disease syndrome protein,
+RT   negatively regulates exocytosis independently of transcriptional
+RT   elongation.";
+RL   Mol. Cell 17:841-853(2005).
+RN   [15]
+RP   FUNCTION IN TRNA MODIFICATION.
+RX   PubMed=15769872; DOI=10.1261/rna.7247705;
+RA   Huang B., Johansson M.J.O., Bystroem A.S.;
+RT   "An early step in wobble uridine tRNA modification requires the
+RT   Elongator complex.";
+RL   RNA 11:424-436(2005).
+CC   -!- FUNCTION: Acts as component of the RNA polymerase II elongator
+CC       complex, which is a major histone acetyltransferase component of
+CC       the RNA polymerase II (RNAPII) holoenzyme and is involved in
+CC       transcriptional elongation. Association with elongating RNAPII
+CC       requires a hyperphosphorylated state of the RNAPII C-terminal
+CC       domain (CTD). Elongator binds to both naked and nucleosomal DNA,
+CC       can acetylate both core and nucleosomal histones, and is involved
+CC       in chromatin remodeling. It acetylates histones H3, preferentially
+CC       at 'Lys-14', and H4, preferentially at 'Lys-8'. It functions as a
+CC       gamma-toxin target (TOT); disruption of the complex confers
+CC       resistance to Kluyveromyces lactis toxin zymocin (pGKL1 killer
+CC       toxin). May also be involved in sensitiviy to Pichia inositovora
+CC       toxin. May be involved in tRNA modification. Independently, ELP3
+CC       may be involved in polarized exocytosis. It is required for the
+CC       polarized localization of GTPase-activating protein SEC2. Is
+CC       required for an early step in synthesis of 5-methoxycarbonylmethyl
+CC       (mcm5) and 5-carbamoylmethyl (ncm5) groups present on uridines at
+CC       the wobble position in tRNA. {ECO:0000269|PubMed:10024884,
+CC       ECO:0000269|PubMed:11296232, ECO:0000269|PubMed:11689709,
+CC       ECO:0000269|PubMed:11904415, ECO:0000269|PubMed:12424236,
+CC       ECO:0000269|PubMed:13680368, ECO:0000269|PubMed:15769872,
+CC       ECO:0000269|PubMed:15780940}.
+CC   -!- SUBUNIT: Component of the RNA polymerase II elongator complex,
+CC       which consists of IKI3, ELP2, ELP3, ELP4, IKI1 and ELP6. IKI3,
+CC       ELP2, and ELP3 form the elongator core complex. In the complex,
+CC       IKI3 interacts with ELP2. {ECO:0000269|PubMed:11435442,
+CC       ECO:0000269|PubMed:11689709, ECO:0000269|PubMed:12139626,
+CC       ECO:0000269|PubMed:15780940}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=3; IntAct=EBI-9068, EBI-9068;
+CC       P42935:ELP2; NbExp=33; IntAct=EBI-9068, EBI-23459;
+CC       Q02908:ELP3; NbExp=28; IntAct=EBI-9068, EBI-33957;
+CC       Q02884:ELP4; NbExp=21; IntAct=EBI-9068, EBI-35277;
+CC       Q04868:ELP6; NbExp=7; IntAct=EBI-9068, EBI-27653;
+CC       P38874:IKI1; NbExp=16; IntAct=EBI-9068, EBI-9061;
+CC       Q3E840:KTI11; NbExp=4; IntAct=EBI-9068, EBI-2055307;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:15780940}.
+CC       Nucleus {ECO:0000269|PubMed:10024884}.
+CC   -!- MISCELLANEOUS: Present with 10500 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the ELP1/IKA1 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D87841; BAA20120.1; -; Genomic_DNA.
+DR   EMBL; U19104; AAB67278.1; -; Genomic_DNA.
+DR   EMBL; BK006945; DAA09685.1; -; Genomic_DNA.
+DR   PIR; S51471; S51471.
+DR   RefSeq; NP_013488.3; NM_001182273.3.
+DR   PDB; 5CQS; X-ray; 2.70 A; A/B/C/D=919-1349.
+DR   PDBsum; 5CQS; -.
+DR   ProteinModelPortal; Q06706; -.
+DR   SMR; Q06706; -.
+DR   BioGrid; 31643; 487.
+DR   ComplexPortal; CPX-779; Elongator holoenzyme complex.
+DR   DIP; DIP-2384N; -.
+DR   IntAct; Q06706; 40.
+DR   MINT; Q06706; -.
+DR   STRING; 4932.YLR384C; -.
+DR   iPTMnet; Q06706; -.
+DR   MaxQB; Q06706; -.
+DR   PaxDb; Q06706; -.
+DR   PRIDE; Q06706; -.
+DR   EnsemblFungi; YLR384C; YLR384C; YLR384C.
+DR   GeneID; 851100; -.
+DR   KEGG; sce:YLR384C; -.
+DR   EuPathDB; FungiDB:YLR384C; -.
+DR   SGD; S000004376; IKI3.
+DR   GeneTree; ENSGT00390000013344; -.
+DR   HOGENOM; HOG000188454; -.
+DR   InParanoid; Q06706; -.
+DR   KO; K11373; -.
+DR   OMA; KVRVWNR; -.
+DR   OrthoDB; EOG092C0JYF; -.
+DR   BioCyc; YEAST:G3O-32450-MONOMER; -.
+DR   PRO; PR:Q06706; -.
+DR   Proteomes; UP000002311; Chromosome XII.
+DR   GO; GO:0005737; C:cytoplasm; IDA:SGD.
+DR   GO; GO:0033588; C:Elongator holoenzyme complex; IDA:SGD.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0005634; C:nucleus; IDA:SGD.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0000049; F:tRNA binding; IDA:SGD.
+DR   GO; GO:0015031; P:protein transport; IEA:UniProtKB-KW.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IMP:SGD.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   GO; GO:0002098; P:tRNA wobble uridine modification; IMP:SGD.
+DR   InterPro; IPR006849; Elp1.
+DR   PANTHER; PTHR12747; PTHR12747; 1.
+DR   Pfam; PF04762; IKI3; 1.
+DR   PIRSF; PIRSF017233; IKAP; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Nucleus;
+KW   Protein transport; Reference proteome; Transcription;
+KW   Transcription regulation; Transport.
+FT   CHAIN         1   1349       Elongator complex protein 1.
+FT                                /FTId=PRO_0000084179.
+FT   HELIX       923    930       {ECO:0000244|PDB:5CQS}.
+FT   HELIX       934    943       {ECO:0000244|PDB:5CQS}.
+FT   HELIX       948    950       {ECO:0000244|PDB:5CQS}.
+FT   HELIX       952    959       {ECO:0000244|PDB:5CQS}.
+FT   HELIX       963    974       {ECO:0000244|PDB:5CQS}.
+FT   HELIX       977    984       {ECO:0000244|PDB:5CQS}.
+FT   HELIX       995   1004       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1007   1013       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1014   1016       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1018   1032       {ECO:0000244|PDB:5CQS}.
+FT   TURN       1033   1036       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1038   1047       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1051   1060       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1064   1073       {ECO:0000244|PDB:5CQS}.
+FT   TURN       1076   1078       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1079   1092       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1096   1107       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1110   1119       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1123   1132       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1138   1141       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1143   1170       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1253   1282       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1286   1308       {ECO:0000244|PDB:5CQS}.
+FT   HELIX      1345   1347       {ECO:0000244|PDB:5CQS}.
+SQ   SEQUENCE   1349 AA;  152990 MW;  7AEB1C0BA99282F6 CRC64;
+     MVEHDKSGSK RQELRSNMRN LITLNKGKFK PTASTAEGDE DDLSFTLLDS VFDTLSDSIT
+     CVLGSTDIGA IEVQQFMKDG SRNVLASFNI QTFDDKLLSF VHFADINQLV FVFEQGDIIT
+     ATYDPVSLDP AETLIEIMGT IDNGIAAAQW SYDEETLAMV TKDRNVVVLS KLFEPISEYH
+     LEVDDLKISK HVTVGWGKKE TQFRGKGARA MEREALASLK ASGLVGNQLR DPTMPYMVDT
+     GDVTALDSHE ITISWRGDCD YFAVSSVEEV PDEDDETKSI KRRAFRVFSR EGQLDSASEP
+     VTGMEHQLSW KPQGSLIASI QRKTDLGEED SVDVIFFERN GLRHGEFDTR LPLDEKVESV
+     CWNSNSEALA VVLANRIQLW TSKNYHWYLK QELYASDISY VKWHPEKDFT LMFSDAGFIN
+     IVDFAYKMAQ GPTLEPFDNG TSLVVDGRTV NITPLALANV PPPMYYRDFE TPGNVLDVAC
+     SFSNEIYAAI NKDVLIFAAV PSIEEMKKGK HPSIVCEFPK SEFTSEVDSL RQVAFINDSI
+     VGVLLDTDNL SRIALLDIQD ITQPTLITIV EVYDKIVLLR SDFDYNHLVY ETRDGTVCQL
+     DAEGQLMEIT KFPQLVRDFR VKRVHNTSAE DDDNWSAESS ELVAFGITNN GKLFANQVLL
+     ASAVTSLEIT DSFLLFTTAQ HNLQFVHLNS TDFKPLPLVE EGVEDERVRA IERGSILVSV
+     IPSKSSVVLQ ATRGNLETIY PRIMVLAEVR KNIMAKRYKE AFIVCRTHRI NLDILHDYAP
+     ELFIENLEVF INQIGRVDYL NLFISCLSED DVTKTKYKET LYSGISKSFG MEPAPLTEMQ
+     IYMKKKMFDP KTSKVNKICD AVLNVLLSNP EYKKKYLQTI ITAYASQNPQ NLSAALKLIS
+     ELENSEEKDS CVTYLCFLQD VNVVYKSALS LYDVSLALLV AQKSQMDPRE YLPFLQELQD
+     NEPLRRKFLI DDYLGNYEKA LEHLSEIDKD GNVSEEVIDY VESHDLYKHG LALYRYDSEK
+     QNVIYNIYAK HLSSNQMYTD AAVAYEMLGK LKEAMGAYQS AKRWREAMSI AVQKFPEEVE
+     SVAEELISSL TFEHRYVDAA DIQLEYLDNV KEAVALYCKA YRYDIASLVA IKAKKDELLE
+     EVVDPGLGEG FGIIAELLAD CKGQINSQLR RLRELRAKKE ENPYAFYGQE TEQADDVSVA
+     PSETSTQESF FTRYTGKTGG TAKTGASRRT AKNKRREERK RARGKKGTIY EEEYLVQSVG
+     RLIERLNQTK PDAVRVVEGL CRRNMREQAH QIQKNFVEVL DLLKANVKEI YSISEKDRER
+     VNENGEVYYI PEIPVPEIHD FPKSHIVDF
+//
+ID   ELP5_YEAST              Reviewed;         309 AA.
+AC   P38874; D3DLD5;
+DT   01-FEB-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1995, sequence version 1.
+DT   18-JUL-2018, entry version 144.
+DE   RecName: Full=Elongator complex protein 5;
+DE   AltName: Full=Gamma-toxin target 5;
+DE   AltName: Full=HAT-associated protein 2;
+DE   AltName: Full=Protein IKI1;
+GN   Name=IKI1; Synonyms=ELP5, HAP2, TOT5; OrderedLocusNames=YHR187W;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=9145530; DOI=10.1271/bbb.61.704;
+RA   Yajima H., Tokunaga M., Nakayama-Murayama A., Hishinuma F.;
+RT   "Characterization of IKI1 and IKI3 genes conferring pGKL killer
+RT   sensitivity on Saccharomyces cerevisiae.";
+RL   Biosci. Biotechnol. Biochem. 61:704-709(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=8091229; DOI=10.1126/science.8091229;
+RA   Johnston M., Andrews S., Brinkman R., Cooper J., Ding H., Dover J.,
+RA   Du Z., Favello A., Fulton L., Gattung S., Geisel C., Kirsten J.,
+RA   Kucaba T., Hillier L.W., Jier M., Johnston L., Langston Y.,
+RA   Latreille P., Louis E.J., Macri C., Mardis E., Menezes S., Mouser L.,
+RA   Nhan M., Rifkin L., Riles L., St Peter H., Trevaskis E., Vaughan K.,
+RA   Vignati D., Wilcox L., Wohldman P., Waterston R., Wilson R.,
+RA   Vaudin M.;
+RT   "Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+RT   VIII.";
+RL   Science 265:2077-2082(1994).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [4]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN TRANSCRIPTIONAL
+RP   REGULATION, AND SUBCELLULAR LOCATION.
+RX   PubMed=10024884; DOI=10.1016/S1097-2765(00)80179-3;
+RA   Otero G., Fellows J., Li Y., de Bizemont T., Dirac A.M.,
+RA   Gustafsson C.M., Erdjument-Bromage H., Tempst P., Svejstrup J.Q.;
+RT   "Elongator, a multisubunit component of a novel RNA polymerase II
+RT   holoenzyme for transcriptional elongation.";
+RL   Mol. Cell 3:109-118(1999).
+RN   [5]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN ZYMOCIN
+RP   SENSITIVITY.
+RX   PubMed=11296232; DOI=10.1093/emboj/20.8.1993;
+RA   Frohloff F., Fichtner L., Jablonowski D., Breunig K.D., Schaffrath R.;
+RT   "Saccharomyces cerevisiae Elongator mutations confer resistance to the
+RT   Kluyveromyces lactis zymocin.";
+RL   EMBO J. 20:1993-2003(2001).
+RN   [6]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX.
+RX   PubMed=11435442; DOI=10.1074/jbc.M105303200;
+RA   Winkler G.S., Petrakis T.G., Ethelberg S., Tokunaga M.,
+RA   Erdjument-Bromage H., Tempst P., Svejstrup J.Q.;
+RT   "RNA polymerase II elongator holoenzyme is composed of two discrete
+RT   subcomplexes.";
+RL   J. Biol. Chem. 276:32743-32749(2001).
+RN   [7]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=11390369; DOI=10.1074/jbc.C100274200;
+RA   Li Y., Takagi Y., Jiang Y., Tokunaga M., Erdjument-Bromage H.,
+RA   Tempst P., Kornberg R.D.;
+RT   "A multiprotein complex that interacts with RNA polymerase II
+RT   elongator.";
+RL   J. Biol. Chem. 276:29628-29631(2001).
+RN   [8]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX, AND
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN TRANSCRIPTIONAL
+RP   REGULATION.
+RX   PubMed=11689709; DOI=10.1128/MCB.21.23.8203-8212.2001;
+RA   Krogan N.J., Greenblatt J.F.;
+RT   "Characterization of a six-subunit holo-elongator complex required for
+RT   the regulated expression of a group of genes in Saccharomyces
+RT   cerevisiae.";
+RL   Mol. Cell. Biol. 21:8203-8212(2001).
+RN   [9]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN HISTONE
+RP   ACETYLATION.
+RX   PubMed=11904415; DOI=10.1073/pnas.022042899;
+RA   Winkler G.S., Kristjuhan A., Erdjument-Bromage H., Tempst P.,
+RA   Svejstrup J.Q.;
+RT   "Elongator is a histone H3 and H4 acetyltransferase important for
+RT   normal histone acetylation levels in vivo.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:3517-3522(2002).
+RN   [10]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN PICHIA
+RP   INOSITOVORA TOXIN SENSITIVITY.
+RX   PubMed=13680368; DOI=10.1007/s00438-003-0920-5;
+RA   Klassen R., Meinhardt F.;
+RT   "Structural and functional analysis of the killer element pPin1-3 from
+RT   Pichia inositovora.";
+RL   Mol. Genet. Genomics 270:190-199(2003).
+RN   [11]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562095; DOI=10.1038/nature02026;
+RA   Huh W.-K., Falvo J.V., Gerke L.C., Carroll A.S., Howson R.W.,
+RA   Weissman J.S., O'Shea E.K.;
+RT   "Global analysis of protein localization in budding yeast.";
+RL   Nature 425:686-691(2003).
+RN   [12]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [13]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=15780940; DOI=10.1016/j.molcel.2005.02.018;
+RA   Rahl P.B., Chen C.Z., Collins R.N.;
+RT   "Elp1p, the yeast homolog of the FD disease syndrome protein,
+RT   negatively regulates exocytosis independently of transcriptional
+RT   elongation.";
+RL   Mol. Cell 17:841-853(2005).
+RN   [14]
+RP   FUNCTION IN TRNA MODIFICATION.
+RX   PubMed=15769872; DOI=10.1261/rna.7247705;
+RA   Huang B., Johansson M.J.O., Bystroem A.S.;
+RT   "An early step in wobble uridine tRNA modification requires the
+RT   Elongator complex.";
+RL   RNA 11:424-436(2005).
+CC   -!- FUNCTION: Acts as component of the RNA polymerase II elongator
+CC       complex, which is a major histone acetyltransferase component of
+CC       the RNA polymerase II (RNAPII) holoenzyme and is involved in
+CC       transcriptional elongation. Association with elongating RNAPII
+CC       requires a hyperphosphorylated state of the RNAPII C-terminal
+CC       domain (CTD). Elongator binds to both naked and nucleosomal DNA,
+CC       can acetylate both core and nucleosomal histones, and is involved
+CC       in chromatin remodeling. It acetylates histones H3, preferentially
+CC       at 'Lys-14', and H4, preferentially at 'Lys-8'. It functions as a
+CC       gamma-toxin target (TOT); disruption of the complex confers
+CC       resistance to Kluyveromyces lactis toxin zymocin (pGKL1 killer
+CC       toxin). May also be involved in sensitiviy to Pichia inositovora
+CC       toxin. May be involved in tRNA modification. IKI1 is required for
+CC       an early step in synthesis of 5-methoxycarbonylmethyl (mcm5) and
+CC       5-carbamoylmethyl (ncm5) groups present on uridines at the wobble
+CC       position in tRNA. {ECO:0000269|PubMed:10024884,
+CC       ECO:0000269|PubMed:11296232, ECO:0000269|PubMed:11689709,
+CC       ECO:0000269|PubMed:11904415, ECO:0000269|PubMed:13680368,
+CC       ECO:0000269|PubMed:15769872}.
+CC   -!- SUBUNIT: Component of the RNA polymerase II elongator complex,
+CC       which consists of IKI3, ELP2, ELP3, ELP4, IKI1 and ELP6. ELP4,
+CC       IKI1 and ELP6 form a distinct subcomplex (HAP).
+CC       {ECO:0000269|PubMed:11390369, ECO:0000269|PubMed:11435442,
+CC       ECO:0000269|PubMed:11689709}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=2; IntAct=EBI-9061, EBI-9061;
+CC       P42935:ELP2; NbExp=7; IntAct=EBI-9061, EBI-23459;
+CC       Q02908:ELP3; NbExp=7; IntAct=EBI-9061, EBI-33957;
+CC       Q02884:ELP4; NbExp=14; IntAct=EBI-9061, EBI-35277;
+CC       Q04868:ELP6; NbExp=7; IntAct=EBI-9061, EBI-27653;
+CC       Q06706:IKI3; NbExp=16; IntAct=EBI-9061, EBI-9068;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+CC   -!- MISCELLANEOUS: Present with 3870 molecules/cell in log phase SD
+CC       medium. {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the ELP5 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D83267; BAA20087.1; -; Genomic_DNA.
+DR   EMBL; U00030; AAB68362.1; -; Genomic_DNA.
+DR   EMBL; BK006934; DAA06879.1; -; Genomic_DNA.
+DR   PIR; S46684; S46684.
+DR   RefSeq; NP_012057.3; NM_001179318.3.
+DR   PDB; 4A8J; X-ray; 2.10 A; B/E=1-270.
+DR   PDB; 4EJS; X-ray; 2.61 A; B=1-238.
+DR   PDBsum; 4A8J; -.
+DR   PDBsum; 4EJS; -.
+DR   ProteinModelPortal; P38874; -.
+DR   SMR; P38874; -.
+DR   BioGrid; 36621; 178.
+DR   ComplexPortal; CPX-779; Elongator holoenzyme complex.
+DR   DIP; DIP-1967N; -.
+DR   IntAct; P38874; 11.
+DR   MINT; P38874; -.
+DR   STRING; 4932.YHR187W; -.
+DR   MaxQB; P38874; -.
+DR   PaxDb; P38874; -.
+DR   PRIDE; P38874; -.
+DR   EnsemblFungi; YHR187W; YHR187W; YHR187W.
+DR   GeneID; 856594; -.
+DR   KEGG; sce:YHR187W; -.
+DR   EuPathDB; FungiDB:YHR187W; -.
+DR   SGD; S000001230; IKI1.
+DR   HOGENOM; HOG000248152; -.
+DR   InParanoid; P38874; -.
+DR   KO; K11376; -.
+DR   OMA; MGREDDF; -.
+DR   OrthoDB; EOG092C3T25; -.
+DR   BioCyc; YEAST:G3O-31217-MONOMER; -.
+DR   PRO; PR:P38874; -.
+DR   Proteomes; UP000002311; Chromosome VIII.
+DR   GO; GO:0005737; C:cytoplasm; IDA:SGD.
+DR   GO; GO:0033588; C:Elongator holoenzyme complex; IDA:SGD.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0005634; C:nucleus; IDA:SGD.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0006355; P:regulation of transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   GO; GO:0006400; P:tRNA modification; IMP:SGD.
+DR   GO; GO:0002098; P:tRNA wobble uridine modification; IEA:InterPro.
+DR   InterPro; IPR019519; Elp5.
+DR   PANTHER; PTHR15641; PTHR15641; 1.
+DR   Pfam; PF10483; Elong_Iki1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Nucleus;
+KW   Reference proteome; Transcription; Transcription regulation.
+FT   CHAIN         1    309       Elongator complex protein 5.
+FT                                /FTId=PRO_0000084178.
+FT   HELIX         8     16       {ECO:0000244|PDB:4A8J}.
+FT   STRAND       23     30       {ECO:0000244|PDB:4A8J}.
+FT   HELIX        36     48       {ECO:0000244|PDB:4A8J}.
+FT   STRAND       55     61       {ECO:0000244|PDB:4A8J}.
+FT   STRAND       70     74       {ECO:0000244|PDB:4A8J}.
+FT   HELIX        80     89       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      102    107       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       109    111       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       114    116       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       117    124       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      129    136       {ECO:0000244|PDB:4A8J}.
+FT   TURN        151    153       {ECO:0000244|PDB:4EJS}.
+FT   HELIX       157    164       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      166    173       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       181    189       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      200    209       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      215    223       {ECO:0000244|PDB:4A8J}.
+FT   TURN        224    227       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      228    231       {ECO:0000244|PDB:4A8J}.
+SQ   SEQUENCE   309 AA;  35220 MW;  DFD93D7BA583E2F5 CRC64;
+     MASSSHNPVI LLKRILSLTE SSPFILCLDS IAQTSYKLIQ EFVHQSKSKG NEYPIVYISF
+     ETVNKPSYCT QFIDATQMDF VHLVKQIISY LPAATATQAK KHMVIIDSLN YISTEYITRF
+     LSEIASPHCT MVATYHKDIK DENRTVIPDW NNNYPDKLTL LQFMATTIVD IDVVLTGTLD
+     TEEVSELLNE FRIPRGLNND IFQLRLVNKR KSGRSLEYDF IVNSNTHEYE LLSTTKQEEE
+     SSSNGLETPE MLQGLTTFNL GTSNKQKLAK DQVALPFLEA QSFGQGGAIV YEYEKDDDYD
+     EEDPYEDPF
+//
+ID   ELP6_YEAST              Reviewed;         273 AA.
+AC   Q04868; D6W0D9;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1997, sequence version 1.
+DT   18-JUL-2018, entry version 128.
+DE   RecName: Full=Elongator complex protein 6;
+DE   AltName: Full=Gamma-toxin target 6;
+DE   AltName: Full=HAT-associated protein 3;
+GN   Name=ELP6; Synonyms=HAP3, TOT6; OrderedLocusNames=YMR312W;
+GN   ORFNames=YM9924.04;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169872;
+RA   Bowman S., Churcher C.M., Badcock K., Brown D., Chillingworth T.,
+RA   Connor R., Dedman K., Devlin K., Gentles S., Hamlin N., Hunt S.,
+RA   Jagels K., Lye G., Moule S., Odell C., Pearson D., Rajandream M.A.,
+RA   Rice P., Skelton J., Walsh S.V., Whitehead S., Barrell B.G.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome
+RT   XIII.";
+RL   Nature 387:90-93(1997).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=17322287; DOI=10.1101/gr.6037607;
+RA   Hu Y., Rolfs A., Bhullar B., Murthy T.V.S., Zhu C., Berger M.F.,
+RA   Camargo A.A., Kelley F., McCarron S., Jepson D., Richardson A.,
+RA   Raphael J., Moreira D., Taycher E., Zuo D., Mohr S., Kane M.F.,
+RA   Williamson J., Simpson A.J.G., Bulyk M.L., Harlow E., Marsischky G.,
+RA   Kolodner R.D., LaBaer J.;
+RT   "Approaching a complete repository of sequence-verified protein-
+RT   encoding clones for Saccharomyces cerevisiae.";
+RL   Genome Res. 17:536-543(2007).
+RN   [4]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN TRANSCRIPTIONAL
+RP   REGULATION, AND SUBCELLULAR LOCATION.
+RX   PubMed=10024884; DOI=10.1016/S1097-2765(00)80179-3;
+RA   Otero G., Fellows J., Li Y., de Bizemont T., Dirac A.M.,
+RA   Gustafsson C.M., Erdjument-Bromage H., Tempst P., Svejstrup J.Q.;
+RT   "Elongator, a multisubunit component of a novel RNA polymerase II
+RT   holoenzyme for transcriptional elongation.";
+RL   Mol. Cell 3:109-118(1999).
+RN   [5]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN ZYMOCIN
+RP   SENSITIVITY.
+RX   PubMed=11296232; DOI=10.1093/emboj/20.8.1993;
+RA   Frohloff F., Fichtner L., Jablonowski D., Breunig K.D., Schaffrath R.;
+RT   "Saccharomyces cerevisiae Elongator mutations confer resistance to the
+RT   Kluyveromyces lactis zymocin.";
+RL   EMBO J. 20:1993-2003(2001).
+RN   [6]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX.
+RX   PubMed=11435442; DOI=10.1074/jbc.M105303200;
+RA   Winkler G.S., Petrakis T.G., Ethelberg S., Tokunaga M.,
+RA   Erdjument-Bromage H., Tempst P., Svejstrup J.Q.;
+RT   "RNA polymerase II elongator holoenzyme is composed of two discrete
+RT   subcomplexes.";
+RL   J. Biol. Chem. 276:32743-32749(2001).
+RN   [7]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=11390369; DOI=10.1074/jbc.C100274200;
+RA   Li Y., Takagi Y., Jiang Y., Tokunaga M., Erdjument-Bromage H.,
+RA   Tempst P., Kornberg R.D.;
+RT   "A multiprotein complex that interacts with RNA polymerase II
+RT   elongator.";
+RL   J. Biol. Chem. 276:29628-29631(2001).
+RN   [8]
+RP   IDENTIFICATION IN THE RNA POLYMERASE II ELONGATOR COMPLEX, AND
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN TRANSCRIPTIONAL
+RP   REGULATION.
+RX   PubMed=11689709; DOI=10.1128/MCB.21.23.8203-8212.2001;
+RA   Krogan N.J., Greenblatt J.F.;
+RT   "Characterization of a six-subunit holo-elongator complex required for
+RT   the regulated expression of a group of genes in Saccharomyces
+RT   cerevisiae.";
+RL   Mol. Cell. Biol. 21:8203-8212(2001).
+RN   [9]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN HISTONE
+RP   ACETYLATION.
+RX   PubMed=11904415; DOI=10.1073/pnas.022042899;
+RA   Winkler G.S., Kristjuhan A., Erdjument-Bromage H., Tempst P.,
+RA   Svejstrup J.Q.;
+RT   "Elongator is a histone H3 and H4 acetyltransferase important for
+RT   normal histone acetylation levels in vivo.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:3517-3522(2002).
+RN   [10]
+RP   FUNCTION OF THE RNA POLYMERASE II ELONGATOR COMPLEX IN PICHIA
+RP   INOSITOVORA TOXIN SENSITIVITY.
+RX   PubMed=13680368; DOI=10.1007/s00438-003-0920-5;
+RA   Klassen R., Meinhardt F.;
+RT   "Structural and functional analysis of the killer element pPin1-3 from
+RT   Pichia inositovora.";
+RL   Mol. Genet. Genomics 270:190-199(2003).
+RN   [11]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=15780940; DOI=10.1016/j.molcel.2005.02.018;
+RA   Rahl P.B., Chen C.Z., Collins R.N.;
+RT   "Elp1p, the yeast homolog of the FD disease syndrome protein,
+RT   negatively regulates exocytosis independently of transcriptional
+RT   elongation.";
+RL   Mol. Cell 17:841-853(2005).
+RN   [12]
+RP   FUNCTION IN TRNA MODIFICATION.
+RX   PubMed=15769872; DOI=10.1261/rna.7247705;
+RA   Huang B., Johansson M.J.O., Bystroem A.S.;
+RT   "An early step in wobble uridine tRNA modification requires the
+RT   Elongator complex.";
+RL   RNA 11:424-436(2005).
+CC   -!- FUNCTION: Acts as component of the RNA polymerase II elongator
+CC       complex, which is a major histone acetyltransferase component of
+CC       the RNA polymerase II (RNAPII) holoenzyme and is involved in
+CC       transcriptional elongation. Association with elongating RNAPII
+CC       requires a hyperphosphorylated state of the RNAPII C-terminal
+CC       domain (CTD). Elongator binds to both naked and nucleosomal DNA,
+CC       can acetylate both core and nucleosomal histones, and is involved
+CC       in chromatin remodeling. It acetylates histones H3, preferentially
+CC       at 'Lys-14', and H4, preferentially at 'Lys-8'. It functions as a
+CC       gamma-toxin target (TOT); disruption of the complex confers
+CC       resistance to Kluyveromyces lactis toxin zymocin (pGKL1 killer
+CC       toxin). May also be involved in sensitiviy to Pichia inositovora
+CC       toxin. May be involved in tRNA modification. ELP6 is required for
+CC       an early step in synthesis of 5-methoxycarbonylmethyl (mcm5) and
+CC       5-carbamoylmethyl (ncm5) groups present on uridines at the wobble
+CC       position in tRNA. {ECO:0000269|PubMed:10024884,
+CC       ECO:0000269|PubMed:11296232, ECO:0000269|PubMed:11689709,
+CC       ECO:0000269|PubMed:11904415, ECO:0000269|PubMed:13680368,
+CC       ECO:0000269|PubMed:15769872}.
+CC   -!- SUBUNIT: Component of the RNA polymerase II elongator complex,
+CC       which consists of IKI3, ELP2, ELP3, ELP4, IKI1 and ELP6. ELP4,
+CC       IKI1 and ELP6 form a distinct subcomplex (HAP).
+CC       {ECO:0000269|PubMed:11390369, ECO:0000269|PubMed:11435442,
+CC       ECO:0000269|PubMed:11689709}.
+CC   -!- INTERACTION:
+CC       Self; NbExp=2; IntAct=EBI-27653, EBI-27653;
+CC       P42935:ELP2; NbExp=2; IntAct=EBI-27653, EBI-23459;
+CC       Q02908:ELP3; NbExp=4; IntAct=EBI-27653, EBI-33957;
+CC       Q02884:ELP4; NbExp=14; IntAct=EBI-27653, EBI-35277;
+CC       P38874:IKI1; NbExp=7; IntAct=EBI-27653, EBI-9061;
+CC       Q06706:IKI3; NbExp=7; IntAct=EBI-27653, EBI-9068;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:15780940}.
+CC       Nucleus {ECO:0000269|PubMed:10024884}.
+CC   -!- SIMILARITY: Belongs to the ELP6 family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z54141; CAA90830.1; -; Genomic_DNA.
+DR   EMBL; AY557983; AAS56309.1; -; Genomic_DNA.
+DR   EMBL; BK006946; DAA10213.1; -; Genomic_DNA.
+DR   PIR; S59305; S59305.
+DR   RefSeq; NP_014043.1; NM_001182823.1.
+DR   PDB; 4A8J; X-ray; 2.10 A; C/F=1-273.
+DR   PDB; 4EJS; X-ray; 2.61 A; C=1-273.
+DR   PDBsum; 4A8J; -.
+DR   PDBsum; 4EJS; -.
+DR   ProteinModelPortal; Q04868; -.
+DR   SMR; Q04868; -.
+DR   BioGrid; 35492; 458.
+DR   ComplexPortal; CPX-779; Elongator holoenzyme complex.
+DR   DIP; DIP-1966N; -.
+DR   IntAct; Q04868; 12.
+DR   MINT; Q04868; -.
+DR   STRING; 4932.YMR312W; -.
+DR   CarbonylDB; Q04868; -.
+DR   MaxQB; Q04868; -.
+DR   PaxDb; Q04868; -.
+DR   PRIDE; Q04868; -.
+DR   EnsemblFungi; YMR312W; YMR312W; YMR312W.
+DR   GeneID; 855360; -.
+DR   KEGG; sce:YMR312W; -.
+DR   EuPathDB; FungiDB:YMR312W; -.
+DR   SGD; S000004929; ELP6.
+DR   HOGENOM; HOG000248084; -.
+DR   InParanoid; Q04868; -.
+DR   KO; K11377; -.
+DR   OMA; EYVYHIT; -.
+DR   OrthoDB; EOG092C3TKX; -.
+DR   BioCyc; YEAST:G3O-32976-MONOMER; -.
+DR   PRO; PR:Q04868; -.
+DR   Proteomes; UP000002311; Chromosome XIII.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0033588; C:Elongator holoenzyme complex; IDA:SGD.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0032447; P:protein urmylation; IMP:SGD.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IMP:SGD.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   GO; GO:0002098; P:tRNA wobble uridine modification; IMP:SGD.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; Nucleus;
+KW   Reference proteome; Transcription; Transcription regulation.
+FT   CHAIN         1    273       Elongator complex protein 6.
+FT                                /FTId=PRO_0000203355.
+FT   HELIX        20     23       {ECO:0000244|PDB:4A8J}.
+FT   STRAND       25     27       {ECO:0000244|PDB:4A8J}.
+FT   STRAND       30     36       {ECO:0000244|PDB:4A8J}.
+FT   HELIX        43     55       {ECO:0000244|PDB:4A8J}.
+FT   HELIX        59     62       {ECO:0000244|PDB:4A8J}.
+FT   STRAND       76     84       {ECO:0000244|PDB:4A8J}.
+FT   HELIX        86     95       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       100    102       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      103    109       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       112    116       {ECO:0000244|PDB:4A8J}.
+FT   TURN        117    119       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       122    138       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      143    149       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       151    153       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       154    157       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       163    169       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       171    176       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      179    186       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       188    190       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       197    200       {ECO:0000244|PDB:4A8J}.
+FT   HELIX       202    214       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      216    222       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      234    240       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      257    264       {ECO:0000244|PDB:4A8J}.
+FT   STRAND      267    271       {ECO:0000244|PDB:4A8J}.
+SQ   SEQUENCE   273 AA;  30574 MW;  1A5062465AF67F47 CRC64;
+     MGSVQRQDLV LFSDQSVLPA HFFQDSNSHN LFFITHQSCT QPLWMINALV ETHVLGSPSS
+     LNESSSSMLP SSTRSHAVLA SFIHEQNYFT NSLNKLKIPS NNYNVLDFLS DFIVNNIHNK
+     PRDKILSDVL AKFSAAIQNN PTDTIVIIEQ PELLLSLVSG LTCSELNNKF ITPLLRQCKV
+     LIIVSNSDIF NIDEYDASVH SSNLQNFYKS SFIKSMINLN LNPLKTGFAK DVTGSLHVCR
+     GGAPIATSNT SLHVVENEYL YLNEKESTKL FYR
+//
