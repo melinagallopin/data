@@ -1,0 +1,17 @@
+uidA	uidB	aliasA	aliasB	method	author	pmids	taxa	taxb	interactionType	sourcedb	confidence	numParticipants	GeneNameA	GeneNameB
+P38874	P42935	IKI1	ELP2	MI:0676(tandem affinity purification)	krogan-2006-1	pubmed:16554755	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:8818|lpr:5|np:12	2	IKI1	ELP2
+P11484	P38874	SSB1	IKI1	MI:0676(tandem affinity purification)	gong-2009-1	pubmed:19536198	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:21614|lpr:21614|np:1	2	SSB1	IKI1
+Q02884	P38874	ELP4	IKI1	MI:0018(two hybrid)	petrakis-2004-2	pubmed:15138274	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:8818|lpr:5|np:7	2	ELP4	IKI1
+Q06706	P38874	IKI3	IKI1	MI:0676(tandem affinity purification)	krogan-2006-1	pubmed:16554755	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:8818|lpr:4|np:11	2	IKI3	IKI1
+Q04868	P38874	ELP6	IKI1	MI:0018(two hybrid)	uetz-2000-1	pubmed:10688190	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:5597|lpr:5|np:8	2	ELP6	IKI1
+Q06706	Q02908	IKI3	ELP3	MI:0363(inferred by author)	gavin-2006-2	pubmed:16429126	-	taxid:559292(Saccharomyces cerevisiae S288C)	other	intact	hpr:8818|lpr:8818|np:1	2	IKI3	ELP3
+Q06706	Q02884	IKI3	ELP4	MI:0676(tandem affinity purification)	gavin-2002-1	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:4615|lpr:4615|np:1	5	IKI3	ELP4
+Q06706	Q02908	IKI3	ELP3	MI:0676(tandem affinity purification)	gavin-2002-1	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:4615|lpr:4615|np:1	5	IKI3	ELP3
+Q06706	P42935	IKI3	ELP2	MI:0676(tandem affinity purification)	gavin-2002-1	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:4615|lpr:4615|np:1	5	IKI3	ELP2
+Q06706	P38874	IKI3	IKI1	MI:0676(tandem affinity purification)	gavin-2002-1	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:4615|lpr:4615|np:1	5	IKI3	IKI1
+Q02884	Q02908	ELP4	ELP3	MI:0676(tandem affinity purification)	gavin-2002-1	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:4615|lpr:4615|np:1	5	ELP4	ELP3
+Q02884	P42935	ELP4	ELP2	MI:0676(tandem affinity purification)	gavin-2002-1	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:4615|lpr:4615|np:1	5	ELP4	ELP2
+Q02884	P38874	ELP4	IKI1	MI:0676(tandem affinity purification)	gavin-2002-1	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:4615|lpr:4615|np:1	5	ELP4	IKI1
+Q02908	P42935	ELP3	ELP2	MI:0676(tandem affinity purification)	gavin-2002-1	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:4615|lpr:4615|np:1	5	ELP3	ELP2
+Q02908	P38874	ELP3	IKI1	MI:0676(tandem affinity purification)	gavin-2002-1	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:4615|lpr:4615|np:1	5	ELP3	IKI1
+P42935	P38874	ELP2	IKI1	MI:0676(tandem affinity purification)	gavin-2002-1	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	intact	hpr:4615|lpr:4615|np:1	5	ELP2	IKI1

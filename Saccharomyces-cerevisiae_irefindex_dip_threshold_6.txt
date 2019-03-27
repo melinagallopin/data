@@ -1,0 +1,7 @@
+uidA	uidB	aliasA	aliasB	method	author	pmids	taxa	taxb	interactionType	sourcedb	confidence	numParticipants	GeneNameA	GeneNameB
+P42935	P42935	ELP2	ELP2	MI:0096(pull down)	-	pubmed:22343726	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	dip	hpr:19|lpr:19|np:1	1	ELP2	ELP2
+P42935	P34253	ELP2	KTI12	MI:0019(coimmunoprecipitation)	-	pubmed:11929532	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	dip	hpr:7519|lpr:6|np:4	2	ELP2	KTI12
+Q04868	P42935	ELP6	ELP2	MI:0019(coimmunoprecipitation)	-	pubmed:11689709	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	dip	hpr:8671|lpr:5|np:5	2	ELP6	ELP2
+P38874	P42935	IKI1	ELP2	MI:0019(coimmunoprecipitation)	-	pubmed:11689709	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	dip	hpr:8818|lpr:5|np:12	2	IKI1	ELP2
+Q06706	P42935	IKI3	ELP2	MI:0401(biochemical)	-	pubmed:10777588	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	dip	hpr:10274|lpr:5|np:15	2	IKI3	ELP2
+Q02908	P42935	ELP3	ELP2	MI:0676(tandem affinity purification)	-	pubmed:11805826	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	dip	hpr:10274|lpr:5|np:13	2	ELP3	ELP2

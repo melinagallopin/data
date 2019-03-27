@@ -1,0 +1,3 @@
+uidA	uidB	aliasA	aliasB	method	author	pmids	taxa	taxb	interactionType	sourcedb	confidence	numParticipants	GeneNameA	GeneNameB
+Q06706	P34165	IKI3	MFA1	MI:0018(two hybrid)	-	pubmed:11283351	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	mpact	hpr:5597|lpr:5597|np:1	2	IKI3	MFA1
+Q04868	P38874	ELP6	IKI1	MI:0018(two hybrid)	-	pubmed:10688190	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	mpact	hpr:5597|lpr:5|np:8	2	ELP6	IKI1
