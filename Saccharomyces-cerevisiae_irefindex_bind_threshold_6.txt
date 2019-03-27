@@ -1,0 +1,34 @@
+uidA	uidB	aliasA	aliasB	method	author	pmids	taxa	taxb	interactionType	sourcedb	confidence	numParticipants	GeneNameA	GeneNameB
+Q06706	Q02884	IKI3	ELP4	-	-	pubmed:11689709	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:8671|lpr:8|np:8	2	IKI3	ELP4
+Q06706	Q04868	IKI3	ELP6	-	-	pubmed:11689709	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:8671|lpr:8|np:5	2	IKI3	ELP6
+Q04868	Q02908	ELP6	ELP3	-	-	pubmed:11689709	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:8671|lpr:9|np:4	2	ELP6	ELP3
+Q02884	Q02908	ELP4	ELP3	-	-	pubmed:11689709	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:8818|lpr:9|np:5	2	ELP4	ELP3
+Q02884	Q04868	ELP4	ELP6	-	-	pubmed:11689709	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:8671|lpr:5|np:7	2	ELP4	ELP6
+Q04868	P38874	ELP6	IKI1	-	-	pubmed:11283351	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:5597|lpr:5|np:8	2	ELP6	IKI1
+Q04868	Q06177	ELP6	TMA10	-	-	pubmed:10655498	taxid:559292(Saccharomyces cerevisiae S288C)	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:5597|lpr:255|np:2	2	ELP6	TMA10
+Q06706	P42935	IKI3	ELP2	-	-	pubmed:11689709	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:18|lpr:18|np:1	3	IKI3	ELP2
+Q06706	Q02908	IKI3	ELP3	-	-	pubmed:11689709	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:18|lpr:18|np:1	3	IKI3	ELP3
+P42935	Q02908	ELP2	ELP3	-	-	pubmed:11689709	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:18|lpr:18|np:1	3	ELP2	ELP3
+Q06706	P42935	IKI3	ELP2	-	-	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:4615|lpr:4615|np:1	4	IKI3	ELP2
+Q06706	Q02908	IKI3	ELP3	-	-	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:4615|lpr:4615|np:1	4	IKI3	ELP3
+Q06706	P38874	IKI3	IKI1	-	-	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:4615|lpr:4615|np:1	4	IKI3	IKI1
+P42935	Q02908	ELP2	ELP3	-	-	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:4615|lpr:4615|np:1	4	ELP2	ELP3
+P42935	P38874	ELP2	IKI1	-	-	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:4615|lpr:4615|np:1	4	ELP2	IKI1
+Q02908	P38874	ELP3	IKI1	-	-	pubmed:11805826	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:4615|lpr:4615|np:1	4	ELP3	IKI1
+Q06706	P42935	IKI3	ELP2	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	IKI3	ELP2
+Q06706	Q02908	IKI3	ELP3	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	IKI3	ELP3
+Q06706	Q02884	IKI3	ELP4	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	IKI3	ELP4
+Q06706	P38874	IKI3	IKI1	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	IKI3	IKI1
+Q06706	Q04868	IKI3	ELP6	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	IKI3	ELP6
+P42935	Q02908	ELP2	ELP3	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	ELP2	ELP3
+P42935	Q02884	ELP2	ELP4	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	ELP2	ELP4
+P42935	P38874	ELP2	IKI1	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	ELP2	IKI1
+P42935	Q04868	ELP2	ELP6	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	ELP2	ELP6
+Q02908	Q02884	ELP3	ELP4	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	ELP3	ELP4
+Q02908	P38874	ELP3	IKI1	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	ELP3	IKI1
+Q02908	Q04868	ELP3	ELP6	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	ELP3	ELP6
+Q02884	P38874	ELP4	IKI1	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	ELP4	IKI1
+Q02884	Q04868	ELP4	ELP6	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	ELP4	ELP6
+P38874	Q04868	IKI1	ELP6	-	-	pubmed:15044803	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:971|lpr:5|np:6	6	IKI1	ELP6
+P42935	Q02908	ELP2	ELP3	-	-	pubmed:11805837	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:10274|lpr:10274|np:1	2	ELP2	ELP3
+P38874	Q04868	IKI1	ELP6	-	-	pubmed:11689709	-	taxid:559292(Saccharomyces cerevisiae S288C)	physical	bind	hpr:19|lpr:8|np:4	2	IKI1	ELP6
